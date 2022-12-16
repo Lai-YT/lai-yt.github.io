@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi there! This is Lai-YT. I'm currently learning things about computer science :smile:
+Hi there! This is Lai-YT. I'm currently learning things about computer science :smile: \
+Especially the following domains:
+
+- Design Patterns (*GoF*)
+- Operating System Concepts
+- Principles of Compiler Design
 
 # Education
 
