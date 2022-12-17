@@ -4,15 +4,41 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! This is Lai-YT. I'm currently learning things about computer science :smile: \
+Especially the following domains:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Design Patterns (*GoF*)
+- Operating System Concepts
+- Principles of Compiler Design
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Education
 
+<span style="float:right;">
+  <em>Taipei, Taiwan</em>
+</span>
+***National Taipei University of Technology***,
+\
+<span style="float:right;">
+  <em>Sep. 2019 ~ Jun. 2023</em>
+</span>
+Bachelor of Science in ***Electronic Engineering***
 
-[jekyll-organization]: https://github.com/jekyll
+# Experience
+
+<span style="float:right;">
+  <em>Taipei, Taiwan</em>
+</span>
+\
+<span style="float:right;">
+  <em>Feb. 2021 ~ Jun. 2021</em>
+</span>
+***Teaching Assistant****, Object Oriented Programming*
+
+<span style="float:right;">
+  <em>Kaohsiung, Taiwan</em>
+</span>
+\
+<span style="float:right;">
+  <em>Jul. 2022 ~ Aug. 2022</em>
+</span>
+***Summer Internship****, Advanced Semiconductor Engineering, Inc.*
