@@ -41,3 +41,9 @@ Bachelor of Science in ***Electronic Engineering***
   <em>Jul. 2022 ~ Aug. 2022</em>
 </span>
 ***Summer Internship****, Advanced Semiconductor Engineering, Inc.*
+
+# Interest
+
+- Table Tennis :ping_pong:
+- Software Design :computer:
+- Coffee :coffee:
