@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+lang: en
+ref: about
 ---
 
 Hi there! This is Lai-YT. I'm currently learning things about computer science :smile: \
