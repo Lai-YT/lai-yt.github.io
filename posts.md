@@ -5,5 +5,7 @@
 layout: home
 title: Posts
 list_title: ' '  # remove the default title "Posts"
+lang: en
+ref: posts
 permalink: /posts/
 ---
