@@ -2,6 +2,7 @@
 layout: post
 title: "Try switching language!"
 date: 2023-01-16 16:52:53 +0800
+categories: test
 lang: en
 ref: try-switching-language
 ---
