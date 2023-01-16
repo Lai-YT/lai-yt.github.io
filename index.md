@@ -8,9 +8,9 @@ ref: about
 Hi there! This is Lai-YT. I'm currently learning things about computer science :smile: \
 Especially the following domains:
 
-- Design Patterns (*GoF*)
-- Operating System Concepts
 - Principles of Compiler Design
+- Operating System Concepts
+- Design Patterns (*GoF*)
 
 # Education
 
@@ -46,6 +46,6 @@ Bachelor of Science in ***Electronic Engineering***
 
 # Interest
 
-- Table Tennis :ping_pong:
 - Software Design :computer:
 - Coffee :coffee:
+- Table Tennis :ping_pong:
