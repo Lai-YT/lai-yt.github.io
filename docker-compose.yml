@@ -1,7 +1,7 @@
 version: "3"
 services:
   server:
-    image: lay-yt-homepage:latest
+    image: lai-yt-homepage:latest
     build:
       dockerfile: Dockerfile
       context: .
