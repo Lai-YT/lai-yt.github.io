@@ -14,39 +14,28 @@ ref: about
 
 # 教育
 
-<span style="float:right;">
-  <em>臺北，臺灣</em>
-</span>
-***國立臺北科技大學***，
-\
-<span style="float:right;">
-  <em>2019 年 9 月～2023 年 6 月</em>
-</span>
-***電子工程學*** 學士
+國立臺北科技大學
+<span class="time-loc">臺北，臺灣</span>
+<br>
+電子工程學 學士
+<span class="time-loc">2019 年 9 月～2023 年 6 月</span>
 
 # 經歷
 
-<span style="float:right;">
-  <em>臺北，臺灣</em>
-</span>
-\
-<span style="float:right;">
-  <em>2021 年 2 月～2021 年 6 月</em>
-</span>
-***課程助教****，物件導向程式設計*
+物件導向程式設計 課程 @ NTUT
+<span class="time-loc">臺北，臺灣</span>
+<br>
+課程助教
+<span class="time-loc">2021 年 2 月～2021 年 6 月</span>
 
-<span style="float:right;">
-  <em>高雄，臺灣</em>
-</span>
-\
-<span style="float:right;">
-  <em>2022 年 7 月～2022 年 8 月</em>
-</span>
-***暑期實習****，日月光半導體製造股份有限公司*
+日月光半導體製造股份有限公司
+<span class="time-loc">高雄，臺灣</span>
+<br>
+暑期實習生
+<span class="time-loc">2022 年 7 月～2022 年 8 月</span>
 
 # 興趣
 
 - 軟體設計 :computer:
 - 咖啡 :coffee:
 - 桌球 :ping_pong:
-
