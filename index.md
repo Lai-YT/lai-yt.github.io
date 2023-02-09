@@ -17,19 +17,19 @@ Especially the following domains:
 <span class="time-loc">
   <em>Taipei, Taiwan</em>
 </span>
-***National Taipei University of Technology***,
+*National Taipei University of Technology*
 \
 <span class="time-loc">
   <em>Sep. 2019 ~ Jun. 2023</em>
 </span>
-Bachelor of Science in ***Electronic Engineering***
+*Bachelor of Science* in *Electronic Engineer*
 
 # Experience
 
 <span class="time-loc">
   <em>Taipei, Taiwan</em>
 </span>
-***Course of Object Oriented Programming*** @ NTUT \
+*Course of Object Oriented Programmin* @ NTUT \
 <span class="time-loc">
   <em>Feb. 2021 ~ Jun. 2021</em>
 </span>
@@ -38,7 +38,7 @@ Bachelor of Science in ***Electronic Engineering***
 <span class="time-loc">
   <em>Kaohsiung, Taiwan</em>
 </span>
-***Advanced Semiconductor Engineering, Inc.***, \
+*Advanced Semiconductor Engineering, Inc.* \
 <span class="time-loc">
   <em>Jul. 2022 ~ Aug. 2022</em>
 </span>
