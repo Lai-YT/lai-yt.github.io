@@ -14,25 +14,25 @@ ref: about
 
 # 教育
 
-國立臺北科技大學
 <span class="time-loc">臺北，臺灣</span>
+國立臺北科技大學
 <br>
-電子工程學 學士
 <span class="time-loc">2019 年 9 月～2023 年 6 月</span>
+電子工程學 學士
 
 # 經歷
 
-物件導向程式設計 課程 @ NTUT
 <span class="time-loc">臺北，臺灣</span>
+物件導向程式設計 課程 @ NTUT
 <br>
-課程助教
 <span class="time-loc">2021 年 2 月～2021 年 6 月</span>
+課程助教
 
-日月光半導體製造股份有限公司
 <span class="time-loc">高雄，臺灣</span>
+日月光半導體製造股份有限公司
 <br>
-暑期實習生
 <span class="time-loc">2022 年 7 月～2022 年 8 月</span>
+暑期實習生
 
 # 興趣
 

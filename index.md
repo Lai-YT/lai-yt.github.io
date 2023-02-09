@@ -14,25 +14,25 @@ Especially the following domains:
 
 # Education
 
-National Taipei University of Technology
 <span class="time-loc">Taipei, Taiwan</span>
+National Taipei University of Technology
 <br>
-Bachelor of Science in Electronic Engineer
 <span class="time-loc">Sep. 2019 ~ Jun. 2023</span>
+Bachelor of Science in Electronic Engineer
 
 # Experience
 
-Course of Object Oriented Programmin @ NTUT
 <span class="time-loc">Taipei, Taiwan</span>
+Course of Object Oriented Programmin @ NTUT
 <br>
-Teaching Assistant
 <span class="time-loc">Feb. 2021 ~ Jun. 2021</span>
+Teaching Assistant
 
-Advanced Semiconductor Engineering, Inc.
 <span class="time-loc">Kaohsiung, Taiwan</span>
+Advanced Semiconductor Engineering, Inc.
 <br>
-Summer Intern
 <span class="time-loc">Jul. 2022 ~ Aug. 2022</span>
+Summer Intern
 
 # Interest
 
