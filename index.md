@@ -14,35 +14,25 @@ Especially the following domains:
 
 # Education
 
-<span style="float:right;">
-  <em>Taipei, Taiwan</em>
-</span>
-***National Taipei University of Technology***,
-\
-<span style="float:right;">
-  <em>Sep. 2019 ~ Jun. 2023</em>
-</span>
-Bachelor of Science in ***Electronic Engineering***
+<span class="period-loc">Taipei, Taiwan</span>
+National Taipei University of Technology
+<br>
+<span class="period-loc">Sep. 2019 ~ Jun. 2023</span>
+Bachelor of Science in Electronic Engineer
 
 # Experience
 
-<span style="float:right;">
-  <em>Taipei, Taiwan</em>
-</span>
-\
-<span style="float:right;">
-  <em>Feb. 2021 ~ Jun. 2021</em>
-</span>
-***Teaching Assistant****, Object Oriented Programming*
+<span class="period-loc">Taipei, Taiwan</span>
+Course of Object Oriented Programmin @ NTUT
+<br>
+<span class="period-loc">Feb. 2021 ~ Jun. 2021</span>
+Teaching Assistant
 
-<span style="float:right;">
-  <em>Kaohsiung, Taiwan</em>
-</span>
-\
-<span style="float:right;">
-  <em>Jul. 2022 ~ Aug. 2022</em>
-</span>
-***Summer Internship****, Advanced Semiconductor Engineering, Inc.*
+<span class="period-loc">Kaohsiung, Taiwan</span>
+Advanced Semiconductor Engineering, Inc.
+<br>
+<span class="period-loc">Jul. 2022 ~ Aug. 2022</span>
+Summer Intern
 
 # Interest
 
