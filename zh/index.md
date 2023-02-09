@@ -14,24 +14,24 @@ ref: about
 
 # 教育
 
-<span class="time-loc">臺北，臺灣</span>
+<span class="period-loc">臺北，臺灣</span>
 國立臺北科技大學
 <br>
-<span class="time-loc">2019 年 9 月～2023 年 6 月</span>
+<span class="period-loc">2019 年 9 月～2023 年 6 月</span>
 電子工程學 學士
 
 # 經歷
 
-<span class="time-loc">臺北，臺灣</span>
+<span class="period-loc">臺北，臺灣</span>
 物件導向程式設計 課程 @ NTUT
 <br>
-<span class="time-loc">2021 年 2 月～2021 年 6 月</span>
+<span class="period-loc">2021 年 2 月～2021 年 6 月</span>
 課程助教
 
-<span class="time-loc">高雄，臺灣</span>
+<span class="period-loc">高雄，臺灣</span>
 日月光半導體製造股份有限公司
 <br>
-<span class="time-loc">2022 年 7 月～2022 年 8 月</span>
+<span class="period-loc">2022 年 7 月～2022 年 8 月</span>
 暑期實習生
 
 # 興趣
