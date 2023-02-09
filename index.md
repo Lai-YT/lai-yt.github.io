@@ -17,32 +17,34 @@ Especially the following domains:
 <span class="time-loc">
   <em>Taipei, Taiwan</em>
 </span>
-*National Taipei University of Technology*
-\
+<em>National Taipei University of Technology</em>
+<br>
 <span class="time-loc">
   <em>Sep. 2019 ~ Jun. 2023</em>
 </span>
-*Bachelor of Science* in *Electronic Engineer*
+<em>Bachelor of Science</em> in <em>Electronic Engineer</em>
 
 # Experience
 
 <span class="time-loc">
   <em>Taipei, Taiwan</em>
 </span>
-*Course of Object Oriented Programmin* @ NTUT \
+<em>Course of Object Oriented Programmin</em> @ NTUT
+<br>
 <span class="time-loc">
   <em>Feb. 2021 ~ Jun. 2021</em>
 </span>
-*Teaching Assistant*
+<em>Teaching Assistant</em>
 
 <span class="time-loc">
   <em>Kaohsiung, Taiwan</em>
 </span>
-*Advanced Semiconductor Engineering, Inc.* \
+<em>Advanced Semiconductor Engineering, Inc.</em>
+<br>
 <span class="time-loc">
   <em>Jul. 2022 ~ Aug. 2022</em>
 </span>
-*Summer Intern*
+<em>Summer Intern</em>
 
 # Interest
 
