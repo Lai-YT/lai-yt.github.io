@@ -2,7 +2,7 @@
 layout: post
 title: "Summarize the Learning Contents & Situations of my Winter Vacation"
 date: 2023-02-20
-categories:
+categories: vacation
 lang: en
 ref: summarize-the-work-of-my-winter-vacation
 assets: 2023-02-20-summary-of-my-winter-vacation
