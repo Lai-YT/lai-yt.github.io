@@ -69,7 +69,7 @@ assets: 2023-02-20-summary-of-my-winter-vacation
 
 ### LaTeX
 
-我真正決定入門 LaTeX 是在看到 CS143 的 Writing Assignments 都是用 LaTeX 撰寫後。喟嘆其課程之扎實。 我閱讀完 [Overleaf 的 30 分鐘 LaTeX 學習引導](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)（實際上花了 3 顆 :tomato:），對於 LaTeX 的語法規則有了一定的瞭解。但想習得一個技能，練習是不可或缺的，因此下學期我將強迫自己使用 LaTeX 繳交所有的作業:rocket:
+我真正決定入門 LaTeX 是在看到 CS143 的 Writing Assignments 都是用 LaTeX 撰寫後。喟嘆其課程之扎實。我閱讀完 [Overleaf 的 30 分鐘 LaTeX 學習引導](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)（實際上花了 3 顆 :tomato:），對於 LaTeX 的語法規則有了一定的瞭解。但想習得一個技能，練習是不可或缺的，因此下學期我將強迫自己使用 LaTeX 繳交所有的作業 :rocket:
 
 ### Rust
 
@@ -78,4 +78,4 @@ assets: 2023-02-20-summary-of-my-winter-vacation
 ### Vim
 
 我在學 [作業系統](https://youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX) 和 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 的時候，教授都一再強調了 Vim 的重要與強大：如果鍵盤的打字速度夠快，熟悉 Vim 的指令之後撰寫程式的速度能再更上一層樓，同時也是遠端連線時最方便的文字編輯器。 \
-我只閱讀了最基本的 vimtutor 教學，距離會用 Vim 還天差地遠。因為同時學習盲打和 Vim 生產力會近乎歸零，十分難熬，因此我會在盲打順手之後再強迫自己練習 Vim。
+我只有跟著最基本的 vimtutor 做練習，距離會用 Vim 還天差地遠。因為同時學習盲打和 Vim 生產力會近乎歸零，十分難熬，因此我會於盲打順手之後再強迫自己練習 Vim。
