@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summarize the Learning Contents & Situations of my Winter Vacation"
+title: "Summarize the Learning Contents & Progress in my Winter Vacation"
 date: 2023-02-20
 categories: vacation
 lang: en
