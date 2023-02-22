@@ -20,7 +20,7 @@ The time spent in a single day is one of the followings:
 
 To me, learning 4 ~ 5 hours a day is intensive enough. I believe **relaxing improves overall efficiency**. Ideally, there are 5 whole days and 2 half-days per week, and no learning in all the evenings. But sometimes I had to go outdoors and my concentration is more limited than that, so there were only 4 whole days.
 
-The winter vacation lasted for 5 weeks. I kept the above time plan in the beginning 4 weeks and entirely relaxed (I read a book, though) in the last week to prevent from burning out early in the coming semester.
+The winter vacation lasted for 5 weeks. I kept the above time plan in the beginning 4 weeks and entirely relaxed (I read a book, though) in the last week to prevent from burning out early in the coming semester. In summary, the time that I'd been focusing on did increase.
 
 ![pomodoro record from 01/17/2023 to 02/16/2023]({{ "/assets/images/" | append: page.assets | append: "/pomodoro-record.jpg" | relative_url }})
 > actually 25m in 01/23
