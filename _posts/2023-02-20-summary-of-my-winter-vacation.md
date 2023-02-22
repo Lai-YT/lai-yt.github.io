@@ -11,16 +11,16 @@ assets: 2023-02-20-summary-of-my-winter-vacation
 ## Time Plan
 
 I tried to use the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to help me on focusing. Each Pomodoro (:tomato:) lasts 25 minutes with a successive short break (5 minutes). After the third :tomato:, take a long break (15 minutes). The tool I used is [Pomodoro Tracker](https://pomodoro-tracker.com/).
-> The power of the Pomodoro Technique is much more than what I've experienced. I cared only about focusing, relaxing and recording, so not practicing it strictly.
+> The power of the Pomodoro Technique is much more than what I've experienced. I cared only about focusing, taking rest and recording, so not practicing it strictly.
 
 The time spent in a single day is one of the followings:
 - 4 ~ 5 hours. 5 ~ 7 :tomato: each in the morning and the afternoon. (simply, the whole day)
 - 2 hours. Only learning in the morning or the afternoon. (simply, half-day)
 - < 1 hour. No learning. Only practicing typing.
 
-To me, learning 4 ~ 5 hours a day is intensive enough. I believe **relaxing improves overall efficiency**. Ideally, there are 5 whole days and 2 half-days per week, and no learning in all the evenings. But sometimes I had to go outdoors and my concentration is more limited than that, so there were only 4 whole days.
+To me, learning 4 ~ 5 hours a day is intensive enough. I believe **taking rest improves overall efficiency**. There should be 5 whole days and 2 half-days per week and no learning in all the evenings, but sometimes I had to go outdoors and my concentration is more limited than that, so there were only 4 whole days.
 
-The winter vacation lasted for 5 weeks. I kept the above time plan in the beginning 4 weeks and entirely relaxed (I read a book, though) in the last week to prevent from burning out early in the coming semester. In summary, the time that I'd been focusing on did increase.
+The winter vacation lasted for 5 weeks. I kept the above time plan in the beginning 4 weeks and had entirely been resting (I read a book) in the last week to prevent myself from burning out early in the coming semester. In summary, the time that I'd been focusing on did increase.
 
 ![pomodoro record from 01/17/2023 to 02/16/2023]({{ "/assets/images/" | append: page.assets | append: "/pomodoro-record.jpg" | relative_url }})
 > actually 25m in 01/23
@@ -60,7 +60,7 @@ I learn blind typing on [TypingClub](https://www.typingclub.com/). From alphabet
 
 ![Accuracy, Coverage & Practice Time in weeks]({{ "/assets/images/" | append: page.assets | append: "/typing-club-accuracy-coverage-and-time-in-weeks.jpg" | relative_url }})
 
-This topic takes the second most time (25 hours ~). Because practicing typing somehow brings me a sense of accomplishment, I sometimes played some more stages in my relaxing time. My current typing speed on symbols is pretty slow (< 20 wpm) but usually need to type many symbols when programming. Also, my error-correcting speed is quite slow. so I'll keep practicing blind typing in the coming semester. At least 30 minutes a day.
+This topic takes the second most time (25 hours ~). Because practicing typing somehow brings me a sense of accomplishment, I sometimes played some more stages in my rest time. My current typing speed on symbols is pretty slow (< 20 wpm) but usually need to type many symbols when programming. Also, my error-correcting speed is quite slow. so I'll keep practicing blind typing in the coming semester. At least 30 minutes a day.
 
 Moreover, I practice on [monkeytype](https://github.com/monkeytypegame/monkeytype), an open-source typing website, to track the progress of my typing speed. The rock bottom on the left is when I start practicing blind typing. The typing speed will decrease at the beginning but **with practice, you'll become better eventually**.
 
