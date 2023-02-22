@@ -60,7 +60,7 @@ I learn blind typing on [TypingClub](https://www.typingclub.com/). From alphabet
 
 ![Accuracy, Coverage & Practice Time in weeks]({{ "/assets/images/" | append: page.assets | append: "/typing-club-accuracy-coverage-and-time-in-weeks.jpg" | relative_url }})
 
-This topic takes the second most time (25 hours ~). Because practicing typing somehow brings me a sense of accomplishment, I sometimes played some more stages in my rest time. My current typing speed on symbols is pretty slow (< 20 wpm) but usually need to type many symbols when programming. Also, my error-correcting speed is quite slow. so I'll keep practicing blind typing in the coming semester. At least 30 minutes a day.
+This topic toke the second most time (25 hours ~). Because practicing typing somehow brought me a sense of accomplishment, I sometimes played some more stages in my rest time. My current typing speed on symbols is pretty slow (< 20 wpm) but usually need to type many symbols when programming. Also, my error-correcting speed is quite slow. So I'll keep practicing blind typing in the coming semester. At least 30 minutes a day.
 
 Moreover, I practice on [monkeytype](https://github.com/monkeytypegame/monkeytype), an open-source typing website, to track the progress of my typing speed. The rock bottom on the left is when I start practicing blind typing. The typing speed will decrease at the beginning but **with practice, you'll become better eventually**.
 
@@ -70,13 +70,14 @@ Moreover, I practice on [monkeytype](https://github.com/monkeytypegame/monkeytyp
 
 ### LaTeX
 
-The moment that I make up my mind to learn LaTeX is when I found that the Writing Assignments in CS143 has to be handed out in LaTeX. I'm astonished by how solid the course is. I read [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) at Overleaf (though I spent 3 :tomato:). I now understand the basic syntax of LaTeX, but to master a skill, practicing is indispensable. So I'll force myself to hand out all of the assignments in LaTeX in the coming semester :rocket:
+The moment that I made up my mind to learn LaTeX is when I found that the Writing Assignments in CS143 has to be handed out in LaTeX. I'm astonished by how solid the course is. \
+I read [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) at Overleaf (though I spent 3 :tomato:). I now understand the basic syntax of LaTeX. But to master a skill, practicing is indispensable, so I'll force myself to hand out all of the assignments in LaTeX in the coming semester :rocket:
 
 ### Rust
 
-I begin the learning of Rust with [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/). I finished reading the first 10 chapters, knowing only the basic syntax and not familiar with it, far from being able to express my thought with Rust. Following the way I learned Python, I will be solving some [LeetCode](https://leetcode.com/) [problems](https://github.com/Lai-YT/leetcode/search?l=rust) to improve my acknowledgment of syntax and the usage of libraries. After that, write a small project to feel how Rust plays its role in software applications.
+I begin the learning of Rust with [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/). I read the first 10 chapters, knowing only the basic syntax and not familiar with it, far from being able to express my thought with Rust. Following the way I learned Python, I will be solving some [LeetCode](https://leetcode.com/) [problems](https://github.com/Lai-YT/leetcode/search?l=rust) to improve my acknowledgment of syntax and the usage of libraries. After that, write a small project to feel how Rust plays its role in software applications.
 
 ### Vim
 
-When learning [The Operating System](https://youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX) and [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), professor emphasized the importance and power of Vim: if you type fast, Vim enables you to type in the speed of your thoughts, furthermore, it's your best text editor when connecting to remote machines. \
+When I was taking [The Operating System](https://youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX) and [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), professor emphasized the importance and power of Vim: if you type fast, Vim enables you to type in the speed of your thoughts, furthermore, it's your best text editor when connecting to remote machines. \
 I only practiced through the *vimtutor*, so there's a long way further before using Vim as a productive tool. Since practicing blind typing and Vim at the same time would make me nearly unproductive, which is too tough, I'll push myself on practicing Vim after I can type at a certain speed.
