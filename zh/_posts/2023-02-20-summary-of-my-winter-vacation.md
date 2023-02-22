@@ -4,7 +4,7 @@ title: "總結我寒假的學習內容與情況"
 date: 2023-02-20
 categories: vacation
 lang: zh
-ref: summarize-the-work-of-my-winter-vacation
+ref: summary-of-my-winter-vacation
 assets: 2023-02-20-summary-of-my-winter-vacation
 ---
 

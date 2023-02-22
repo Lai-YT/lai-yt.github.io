@@ -4,7 +4,7 @@ title: "Summarize the Learning Contents & Progress in my Winter Vacation"
 date: 2023-02-20
 categories: vacation
 lang: en
-ref: summarize-the-work-of-my-winter-vacation
+ref: summary-of-my-winter-vacation
 assets: 2023-02-20-summary-of-my-winter-vacation
 ---
 
