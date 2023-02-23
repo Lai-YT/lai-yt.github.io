@@ -3,6 +3,7 @@ layout: page
 title: 關於
 lang: zh
 ref: about
+permalink: /about/zh/
 ---
 
 你好！我是 Lai-YT。我目前在學習 [電腦科學](https://zh.m.wikipedia.org/zh-tw/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6) 的相關知識 :smile: \
