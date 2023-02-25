@@ -35,3 +35,4 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - README.md
+  - vendor # https://github.com/jekyll/jekyll/issues/5267#issuecomment-241379902
