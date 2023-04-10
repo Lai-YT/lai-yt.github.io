@@ -24,7 +24,7 @@ Bachelor of Science in Electronic Engineer
 # Experience
 
 <span class="period-loc">Taipei, Taiwan</span>
-Course of Object Oriented Programmin @ NTUT
+Course of Object Oriented Programming @ NTUT
 <br>
 <span class="period-loc">Feb. 2021 ~ Jun. 2021</span>
 Teaching Assistant
