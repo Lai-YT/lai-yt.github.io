@@ -12,7 +12,7 @@ ref: about
 - 作業系統概念
 - 設計模式（*四人幫*）
 
-# 教育
+## 教育
 
 <span class="period-loc">臺北，中華民國</span>
 國立臺北科技大學
@@ -20,7 +20,7 @@ ref: about
 <span class="period-loc">2019 年 9 月～2023 年 6 月</span>
 電子工程學 學士
 
-# 經歷
+## 經歷
 
 <span class="period-loc">臺北，中華民國</span>
 物件導向程式設計 課程 @ NTUT
@@ -34,7 +34,7 @@ ref: about
 <span class="period-loc">2022 年 7 月～2022 年 8 月</span>
 暑期實習生
 
-# 興趣
+## 興趣
 
 - 軟體設計 :computer:
 - 咖啡 :coffee:

@@ -12,7 +12,7 @@ Especially the following domains:
 - Operating System Concepts
 - Design Patterns (*GoF*)
 
-# Education
+## Education
 
 <span class="period-loc">Taipei, Republic of China</span>
 National Taipei University of Technology
@@ -20,7 +20,7 @@ National Taipei University of Technology
 <span class="period-loc">Sep. 2019 ~ Jun. 2023</span>
 Bachelor of Science in Electronic Engineer
 
-# Experience
+## Experience
 
 <span class="period-loc">Taipei, Republic of China</span>
 Course of Object Oriented Programming @ NTUT
@@ -34,7 +34,7 @@ Advanced Semiconductor Engineering, Inc.
 <span class="period-loc">Jul. 2022 ~ Aug. 2022</span>
 Summer Intern
 
-# Interest
+## Interest
 
 - Software Design :computer:
 - Coffee :coffee:
