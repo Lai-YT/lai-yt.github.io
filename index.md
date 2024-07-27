@@ -30,6 +30,12 @@ Bachelor of Science in Electronic Engineering
 ## Experience
 
 <span class="period-loc">Hsinchu, Republic of China</span>
+Course of Compiler Design @ NYCU
+<br>
+<span class="period-loc">Feb. 2024 ~ Jun. 2024</span>
+Teaching Assistant
+
+<span class="period-loc">Hsinchu, Republic of China</span>
 Course of Introduction to Compiler Design @ NYCU
 <br>
 <span class="period-loc">Sep. 2023 ~ Jan. 2024</span>
