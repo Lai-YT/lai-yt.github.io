@@ -29,6 +29,12 @@ ref: about
 ## 經歷
 
 <span class="period-loc">新竹，中華民國</span>
+平行程式設計 課程 @ NYCU
+<br>
+<span class="period-loc">2024 年 9 月～2024 年 12 月</span>
+課程助教
+
+<span class="period-loc">新竹，中華民國</span>
 編譯器設計 課程 @ NYCU
 <br>
 <span class="period-loc">2024 年 2 月～2024 年 6 月</span>
