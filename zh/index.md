@@ -33,6 +33,7 @@ ref: about
 <br>
 <span class="period-loc">2024 年 2 月～2024 年 6 月</span>
 課程助教
+- 優良教學助理獎
 
 <span class="period-loc">新竹，中華民國</span>
 編譯器設計概論 課程 @ NYCU
