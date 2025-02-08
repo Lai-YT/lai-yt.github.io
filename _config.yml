@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lai-YT
-email: 381xvmvbib@gmail.com
+email: ytlai.cs12@nycu.edu.tw
 description: >- # this means to ignore newlines until "baseurl:"
   Taking small steps toward expertise.
 baseurl: "" # the subpath of your site, e.g. /blog
