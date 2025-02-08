@@ -41,7 +41,7 @@
       {%- if posts_in_ref.size > 1 -%}
       <div class="wrapper">
         <div class="footer-lang-options">
-          <em>{{ site.data.translations['different_languages'][page.lang] }}:</em>
+          <em>{{ site.data.translations['different_languages'][page.lang] }}</em>
           <ul>
           {%- for post in posts_in_ref -%}
           <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{ post.lang }}">{{ site.data.languages[post.lang].label }}</a></li>
