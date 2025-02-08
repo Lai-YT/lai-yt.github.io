@@ -10,7 +10,7 @@
   {%- endif -%}
 
   {%- if page.layout != 'index' -%}
-    {%- assign posts=site.posts | where:"ref", page.ref | sort: 'lang' -%}
+    {%- assign posts = site.posts | where:"ref", page.ref | sort: 'lang' -%}
     {%- if posts.size == 0 -%}
       {%- assign posts=site.pages | where:"ref", page.ref | sort: 'lang' -%}
     {%- endif -%}

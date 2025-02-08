@@ -31,13 +31,13 @@
   {%- if page.ref and page.lang -%}
 
     {%- if page.layout == 'post' -%}
-      {%- assign posts=site.posts -%}
+      {%- assign posts = site.posts -%}
     {%- elsif page.layout == 'page' -%}
-      {%- assign posts=site.pages -%}
+      {%- assign posts = site.pages -%}
     {%- endif -%}
 
     {%- if posts -%}
-      {%- assign posts_in_ref=posts | where:"ref", page.ref | sort: 'lang' -%}
+      {%- assign posts_in_ref = posts | where:"ref", page.ref | sort: 'lang' -%}
       {%- if posts_in_ref.size > 1 -%}
       <div class="wrapper">
         <div class="footer-lang-options">
