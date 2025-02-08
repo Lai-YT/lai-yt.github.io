@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+hide_title: true
 lang: en
 ref: resume
 ---

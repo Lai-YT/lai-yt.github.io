@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+hide_title: true
 lang: en
 ref: about
 ---

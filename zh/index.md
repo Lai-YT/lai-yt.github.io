@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 關於
+hide_title: true
 lang: zh
 ref: about
 ---

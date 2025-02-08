@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 簡歷
+hide_title: true
 lang: zh
 ref: resume
 ---
