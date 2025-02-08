@@ -52,3 +52,7 @@ ref: resume
 <br>
 <span class="period-loc">2021 年 2 月～2021 年 6 月</span>
 課程助教
+
+## 成果
+
+1. <u>Yi-Ting Lai</u>, Meng-Shiuan Pan. "[A Concentration Judgment System for Online Courses: Design and Implementation.](https://ieeexplore.ieee.org/document/10234058)" VTS Asia Pacific Wireless Communications Symposium (APWCS), 2023.

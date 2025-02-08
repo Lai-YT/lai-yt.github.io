@@ -20,7 +20,6 @@ National Taipei University of Technology
 <span class="period-loc">Sep. 2019 ~ Jun. 2023</span>
 Bachelor of Science in Electronic Engineering
 
-
 ## Experience
 
 <span class="period-loc">Hsinchu, Republic of China</span>
@@ -53,3 +52,7 @@ Course of Object Oriented Programming @ NTUT
 <br>
 <span class="period-loc">Feb. 2021 ~ Jun. 2021</span>
 Teaching Assistant
+
+## Publication
+
+1. <u>Yi-Ting Lai</u>, Meng-Shiuan Pan. "[A Concentration Judgment System for Online Courses: Design and Implementation.](https://ieeexplore.ieee.org/document/10234058)" VTS Asia Pacific Wireless Communications Symposium (APWCS), 2023.
