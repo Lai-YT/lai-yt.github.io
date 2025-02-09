@@ -1,12 +1,19 @@
+# Simple Personal Website
+
+This is a minimalistic personal website that serves an "About" page along with a few links. There are no posts on this website.
+
+- Built with Jekyll using the Minima theme.
+- Features a hand-crafted language switcher.
+
 To build and view my website locally, run:
 
-```
+```sh
 bundle exec jekyll serve -w
 ```
 
 If you'd prefer to develop the website in a Docker container (e.g., to avoid having to install Ruby and dependencies on your host machine), run:
 
-```
+```sh
 docker compose up --build
 ```
 
