@@ -18,3 +18,7 @@ Especially the following domains:
 - Software Design :computer:
 - Coffee :coffee:
 - Table Tennis :ping_pong:
+
+## Other
+
+- [Resume](/assets/files/resume.pdf) :page_with_curl:

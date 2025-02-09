@@ -18,3 +18,7 @@ ref: about
 - 軟體設計 :computer:
 - 咖啡 :coffee:
 - 桌球 :ping_pong:
+
+## 其他
+
+- [簡歷（英文）](/assets/files/resume.pdf) :page_with_curl:
