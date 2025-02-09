@@ -12,11 +12,11 @@
   {%- if page.layout != 'index' -%}
     {%- assign posts = site.posts | where:"ref", page.ref | sort: 'lang' -%}
     {%- if posts.size == 0 -%}
-      {%- assign posts=site.pages | where:"ref", page.ref | sort: 'lang' -%}
+      {%- assign posts = site.pages | where:"ref", page.ref | sort: 'lang' -%}
     {%- endif -%}
     {%- if posts.size > 1 -%}
       {%- for post in posts -%}
-      <link rel="alternate" hreflang="{{post.lang}}" href="{{ site.base-url }}{{ post.url }}" />
+      <link rel="alternate" hreflang="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}" />
       {%- endfor -%}
     {%- endif -%}
   {%- endif -%}
