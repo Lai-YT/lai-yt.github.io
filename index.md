@@ -11,13 +11,14 @@ Especially the following domains:
 
 - Principles of Compiler Design
 - Operating System Concepts
-- Design Patterns (*GoF*)
+- Design Patterns (_GoF_)
 
 ## Interest
 
-- Software Design :computer:
 - Coffee :coffee:
+  - A coffee review is coming soon! :pen:
 - Table Tennis :ping_pong:
+  - Racket: _Nittaku Acoustic_, F: _XIOM Vega Pro_ (Max), B: _Nittaku Fastarc C-1_
 
 ## Other
 
