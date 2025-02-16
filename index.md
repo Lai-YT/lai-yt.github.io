@@ -16,7 +16,8 @@ Especially the following domains:
 ## Interest
 
 - Coffee :coffee:
-  - A coffee review is coming soon! :pen:
+  - Like acidity more than bitterness.
+  - [Coffee Review (Chinese)](/zh/coffee-review.html)
 - Table Tennis :ping_pong:
   - Blade: _Nittaku Acoustic_, F: _XIOM Vega Pro_ (Max), B: _Nittaku Fastarc C-1_
 

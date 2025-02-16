@@ -16,7 +16,8 @@ ref: about
 ## 興趣
 
 - 咖啡 :coffee:
-  - 咖啡評鑑準備中… :pen:
+  - 喝酸的比較多
+  - [咖啡評鑑](/zh/coffee-review.html)
 - 桌球 :ping_pong:
   - 球拍：_Nittaku Acoustic_（木吉他），正手：_XIOM Vega Pro_（Max），反手：_Nittaku Fastarc C-1_
 
