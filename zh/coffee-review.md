@@ -41,7 +41,7 @@ ref: coffee-review
 ## 咖啡豆
 
 - 嘻豆咖啡[^hido-coffee]
-  - 衣索比亞 霓映莓果 日曬（淺）：20.5（3.5／4／4／4／5）<span class="period-loc">2025／02</span>
+  - 衣索比亞 霓映莓果 日曬（淺）：20.5（3.5／4／4／4／5）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
 
 [^hido-coffee]: 大推所以附上 [嘻豆的 IG](https://www.instagram.com/hido_coffee/)。
@@ -49,8 +49,8 @@ ref: coffee-review
 ## 濾掛[^drip-bag]
 
 - 伯朗咖啡嚐家濾掛咖啡
-  - 盛綻果宴風味（中淺）：15（3／3／3／3／3）<span class="period-loc">2025／02</span>
-  - 榛曦巧郁風味（中）：14（3／1／4／3／3）<span class="period-loc">2025／02</span>
+  - 盛綻果宴風味（中淺）：15（3／3／3／3／3）<span class="time-at-right">2025／02</span>
+  - 榛曦巧郁風味（中）：14（3／1／4／3／3）<span class="time-at-right">2025／02</span>
     - 粉水比 1：15，包裝建議的 1：20 太稀。
     - 剛沖泡完的表現差了一些，溫度降了之後才有正常水準。
 
