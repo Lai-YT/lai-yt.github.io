@@ -25,3 +25,9 @@
   float: right;
   margin-left: 1em;
 }
+
+// Paragraphs in footnotes should be slightly smaller with no bottom margins.
+.footnotes p {
+  margin-bottom: 0;
+  font-size: 0.9em;
+}
