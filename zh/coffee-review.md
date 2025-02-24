@@ -43,6 +43,10 @@ ref: coffee-review
 - 嘻豆咖啡[^hido-coffee]
   - 衣索比亞 霓映莓果 日曬（淺）：20.5（3.5／4／4／4／5）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
+- 星巴克
+  - 黃金烘焙綜合（淺）：14.5（2.5／2／4／3／3）<span class="time-at-right">2025／02</span>
+    - 粉水比 1：16
+    - 瑕疵豆很多。
 
 [^hido-coffee]: 大推所以附上 [嘻豆的 IG](https://www.instagram.com/hido_coffee/)。
 
