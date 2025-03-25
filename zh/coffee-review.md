@@ -47,6 +47,10 @@ ref: coffee-review
   - 黃金烘焙綜合（淺）：14.5（2.5／2／4／3／3）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
     - 瑕疵豆很多。
+- 花心咖啡
+  - 衣索比亞 班奇馬吉藝伎 酒香日曬（中淺）：17.5（4.5／3／3／4／3）<span class="time-at-right">2025／03</span>
+    - 粉水比 1：16
+    - 特別的香氣。嚴格來說不太喜歡，但很特別。
 
 [^hido-coffee]: 大推所以附上 [嘻豆的 IG](https://www.instagram.com/hido_coffee/)。
 
