@@ -43,6 +43,9 @@ ref: coffee-review
 - 嘻豆咖啡[^hido-coffee]
   - 衣索比亞 霓映莓果 日曬（淺）：20.5（3.5／4／4／4／5）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
+  - 瓜地馬拉 酒香背影 酒香日曬（中淺）：18（3／3／4／4／4）<span class="time-at-right">2025／04</span>
+    - 粉水比 1：16
+    - 烏梅風味明顯。
 - 星巴克
   - 黃金烘焙綜合（淺）：14.5（2.5／2／4／3／3）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
