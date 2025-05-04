@@ -93,6 +93,10 @@ ref: coffee-review
 - Script Coffee
   - 衣索比亞 VOID 配方豆 日曬（中）： 16.5（3.5／3／3／3／4）<span class="time-at-right">2025／04</span>
     - 粉水比 1：16
+- RD Cafe
+  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）： 16.5（3.5／3／3／4／3）<span class="time-at-right">2025／05</span>
+    - 粉水比 1：16
+    - 4 分的風味在於均衡順口。
 
 [^drip-bag]: 雖然不是自己磨，但也會倒出來用濾杯，萃取得比較好，而且也公平。
 
