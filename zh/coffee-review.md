@@ -48,6 +48,9 @@ ref: coffee-review
   - 瓜地馬拉 酒香背影 酒香日曬（中淺）：18（3／3／4／4／4）<span class="time-at-right">2025／04</span>
     - 粉水比 1：16
     - 烏梅風味明顯。
+  - 肯亞 頂級肯亞 AA 水洗（中深）：16（3／2／4／3／4）<span class="time-at-right">2025／05</span>
+    - 粉水比 1：16
+    - 均衡，尾韻帶點甜感。
 - 星巴克
   - 黃金烘焙綜合（淺）：14.5（2.5／2／4／3／3）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
