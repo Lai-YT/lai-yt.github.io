@@ -93,10 +93,13 @@ ref: coffee-review
   - 衣索比亞、哥斯大黎加 藝伎風味蜜糖花香（淺）：16.5（3.5／3／3／3／4）<span class="time-at-right">2025／03</span>
     - 粉水比 1：16
 - Script Coffee
-  - 衣索比亞 VOID 配方豆 日曬（中）： 16.5（3.5／3／3／3／4）<span class="time-at-right">2025／04</span>
+  - 衣索比亞 VOID 配方豆 日曬（中）：16.5（3.5／3／3／3／4）<span class="time-at-right">2025／04</span>
     - 粉水比 1：16
+  - 衣索比亞／哥倫比亞 NICHI 五週年配方豆（中淺）：17（4／3／3／4／3）<span class="time-at-right">2025／05</span>
+    - 粉水比 1：15
+    - 花果香氣。嚴格來說不太喜歡，但很特別。
 - RD Cafe
-  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）： 16.5（3.5／3／3／4／3）<span class="time-at-right">2025／05</span>
+  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：16.5（3.5／3／3／4／3）<span class="time-at-right">2025／05</span>
     - 粉水比 1：16
     - 4 分的風味在於均衡順口。
   - 哥斯大黎加 蜜語 蜜處理（中）： 17（3／2／4／4／4）<span class="time-at-right">2025／05</span>
