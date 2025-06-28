@@ -69,6 +69,8 @@ ref: coffee-review
   - 衣索比亞 薔薇 日曬（淺）：17（4／3／3／4／3）<span class="time-at-right">2025／06</span>
     - 粉水比 1：16
     - 莓果香氣，口感乾淨。
+  - 瓜地馬拉 微微特南果 水洗（中深）：16（3／2／4／4／3）<span class="time-at-right">2025／06</span>
+    - 粉水比 1：15
 - 星巴克
   - 黃金烘焙綜合（淺）：14.5（2.5／2／4／3／3）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
