@@ -79,6 +79,10 @@ ref: coffee-review
   - 衣索比亞 班奇馬吉藝伎 酒香日曬（中淺）：17.5（4.5／3／3／4／3）<span class="time-at-right">2025／03</span>
     - 粉水比 1：16
     - 特別的香氣。嚴格來說不太喜歡，但很特別。
+- RD Cafe
+  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：15（3／2／3／4／3）<span class="time-at-right">2025／07</span>
+    - 粉水比 1：15
+    - 4 分的風味在於均衡順口。
 
 [^hido-coffee]: 大推所以附上 [嘻豆的 IG](https://www.instagram.com/hido_coffee/)。
 
