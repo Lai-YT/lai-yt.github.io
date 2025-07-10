@@ -82,7 +82,7 @@ ref: coffee-review
     - 粉水比 1：15
     - 4 分的風味在於均衡順口。
 
-[^hido-coffee]: 大推所以附上 [嘻豆的 IG](https://www.instagram.com/hido_coffee/)。
+[^hido-coffee]: 大推所以附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 
 ## 濾掛[^drip-bag]
 
