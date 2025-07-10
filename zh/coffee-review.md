@@ -44,43 +44,41 @@ ref: coffee-review
 模仿主流 Coffee Review 的評分項目，分為以下幾個部分：
 
 1. 香氣（Aroma）
-1. 酸度（Acidity）[^acidity]
+1. 酸度（Acidity）
 1. 醇厚（Body）
 1. 風味（Flavor）
 1. 餘韻（Aftertaste）
 
 細項說明可以參考「[Interpreting Reviews](https://www.coffeereview.com/interpret-coffee/)」。
 
-每個項目分為 1 ～ 5 分（1 分：很差，2 分：喝過就好，3 分：正常水準，想喝咖啡的話可以考慮，4 分：好喝、享受，5 分：特別有記憶點），總分為 25 分。
-
-[^acidity]: 酸度我個人認為不太算是好壞，我喜歡酸的，有些人喜歡苦的。
+每個項目分為 1 ～ 5 分（1 分：很差，2 分：喝過就好，3 分：正常水準，想喝咖啡的話可以考慮，4 分：好喝、享受，5 分：特別有記憶點）。**但因為酸度和好喝程度不太相關，從總分中扣除酸度的分數，最後的總分是 20 分。**
 
 ## 咖啡豆
 
 - 嘻豆咖啡[^hido-coffee]
-  - 衣索比亞 霓映莓果 日曬（淺）：20.5（3.5／4／4／4／5）<span class="time-at-right">2025／02</span>
+  - 衣索比亞 霓映莓果 日曬（淺）：16.5（3.5／<small>4</small>／4／4／5）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
-  - 瓜地馬拉 酒香背影 酒香日曬（中淺）：18（3／3／4／4／4）<span class="time-at-right">2025／04</span>
+  - 瓜地馬拉 酒香背影 酒香日曬（中淺）：15（3／<small>3</small>／4／4／4）<span class="time-at-right">2025／04</span>
     - 粉水比 1：16
     - 烏梅風味明顯。
-  - 肯亞 頂級肯亞 AA 水洗（中深）：16（3／2／4／3／4）<span class="time-at-right">2025／05</span>
+  - 肯亞 頂級肯亞 AA 水洗（中深）：14（3／<small>2</small>／4／3／4）<span class="time-at-right">2025／05</span>
     - 粉水比 1：16
     - 均衡，尾韻帶點甜感。
-  - 衣索比亞 薔薇 日曬（淺）：17（4／3／3／4／3）<span class="time-at-right">2025／06</span>
+  - 衣索比亞 薔薇 日曬（淺）：14（4／<small>3</small>／3／4／3）<span class="time-at-right">2025／06</span>
     - 粉水比 1：16
     - 莓果香氣，口感乾淨。
-  - 瓜地馬拉 微微特南果 水洗（中深）：16（3／2／4／4／3）<span class="time-at-right">2025／06</span>
+  - 瓜地馬拉 微微特南果 水洗（中深）：14（3／<small>2</small>／4／4／3）<span class="time-at-right">2025／06</span>
     - 粉水比 1：15
 - 星巴克
-  - 黃金烘焙綜合（淺）：14.5（2.5／2／4／3／3）<span class="time-at-right">2025／02</span>
+  - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16
     - 瑕疵豆很多。
 - 花心咖啡
-  - 衣索比亞 班奇馬吉藝伎 酒香日曬（中淺）：17.5（4.5／3／3／4／3）<span class="time-at-right">2025／03</span>
+  - 衣索比亞 班奇馬吉藝伎 酒香日曬（中淺）：14.5（4.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／03</span>
     - 粉水比 1：16
     - 特別的香氣。嚴格來說不太喜歡，但很特別。
 - RD Cafe
-  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：15（3／2／3／4／3）<span class="time-at-right">2025／07</span>
+  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：13（3／<small>2</small>／3／4／3）<span class="time-at-right">2025／07</span>
     - 粉水比 1：15
     - 4 分的風味在於均衡順口。
 
@@ -89,44 +87,44 @@ ref: coffee-review
 ## 濾掛[^drip-bag]
 
 - 伯朗咖啡嚐家濾掛咖啡
-  - 盛綻果宴風味（中淺）：15（3／3／3／3／3）<span class="time-at-right">2025／05</span>
+  - 盛綻果宴風味（中淺）：12（3／<small>3</small>／3／3／3）<span class="time-at-right">2025／05</span>
     - 粉水比 1：15，包裝建議的 1：20 太稀。
-  - 榛曦巧郁風味（中）：11（3／1／4／1／2）<span class="time-at-right">2025／02</span>
+  - 榛曦巧郁風味（中）：10（3／<small>1</small>／4／1／2）<span class="time-at-right">2025／02</span>
     - 粉水比 1：15，包裝建議的 1：20 太稀。
     - 厚重的苦澀感。
 - 日日好咖
-  - 衣索比亞 班奇馬吉 水洗（中淺）：16（3／3／3／4／3）<span class="time-at-right">2025／02</span>
+  - 衣索比亞 班奇馬吉 水洗（中淺）：13（3／<small>3</small>／3／4／3）<span class="time-at-right">2025／02</span>
     - 粉水比 1：16，猜測 1：15 更好。
     - 似乎磨得不太好，流速有點慢。
-  - 巴拿馬 戰神 日曬（中淺）：16.5（3.5／3／3／4／3）<span class="time-at-right">2025／04</span>
+  - 巴拿馬 戰神 日曬（中淺）：13.5（3.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／04</span>
     - 粉水比 1：15
     - 似乎磨得不太好，流速有點慢。
-  - 哥斯大黎加 莫札特 葡萄乾蜜處理（淺）：17.5（4.5／3／3／4／3）<span class="time-at-right">2025／03</span>
+  - 哥斯大黎加 莫札特 葡萄乾蜜處理（淺）：14.5（4.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／03</span>
     - 粉水比 1：15
     - 明顯的乾香氣。
 - 詩舒曼精品咖啡
-  - 瓜地馬拉 女神系列 日出火山（中）：14（3／1／4／3／3）<span class="time-at-right">2025／03</span>
+  - 瓜地馬拉 女神系列 日出火山（中）：13（3／<small>1</small>／4／3／3）<span class="time-at-right">2025／03</span>
     - 粉水比 1：16
 - 馬雅烘焙咖啡館
-  - 非洲之星 耶加雪菲 水洗（淺）：15（3／2／2／3／5）<span class="time-at-right">2025／03</span>
+  - 非洲之星 耶加雪菲 水洗（淺）：13（3／<small>2</small>／2／3／5）<span class="time-at-right">2025／03</span>
     - 粉水比 1：15 仍太稀，研磨顆粒較大。
     - 會回甘。
 - POYA 世界咖啡 x OKLAO 歐克佬
-  - 巴西 多娜莊園榛果巧克力 半日曬（中深）：15（3／2／4／3／3）<span class="time-at-right">2025／03</span>
+  - 巴西 多娜莊園榛果巧克力 半日曬（中深）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／03</span>
     - 粉水比 1：15。建議再多些水把風味的層次拉出來。
-  - 衣索比亞、哥斯大黎加 藝伎風味蜜糖花香（淺）：16.5（3.5／3／3／3／4）<span class="time-at-right">2025／03</span>
+  - 衣索比亞、哥斯大黎加 藝伎風味蜜糖花香（淺）：13.5（3.5／<small>3</small>／3／3／4）<span class="time-at-right">2025／03</span>
     - 粉水比 1：16
 - Script Coffee
-  - 衣索比亞 VOID 配方豆 日曬（中）：16.5（3.5／3／3／3／4）<span class="time-at-right">2025／04</span>
+  - 衣索比亞 VOID 配方豆 日曬（中）：13.5（3.5／<small>3</small>／3／3／4）<span class="time-at-right">2025／04</span>
     - 粉水比 1：16
-  - 衣索比亞／哥倫比亞 NICHI 五週年配方豆（中淺）：17（4／3／3／4／3）<span class="time-at-right">2025／05</span>
+  - 衣索比亞／哥倫比亞 NICHI 五週年配方豆（中淺）：14（4／<small>3</small>／3／4／3）<span class="time-at-right">2025／05</span>
     - 粉水比 1：15
     - 花果香氣。嚴格來說不太喜歡，但很特別。
 - RD Cafe
-  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：16.5（3.5／3／3／4／3）<span class="time-at-right">2025／05</span>
+  - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：13.5（3.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／05</span>
     - 粉水比 1：16
     - 4 分的風味在於均衡順口。
-  - 哥斯大黎加 蜜語 蜜處理（中）： 17（3／2／4／4／4）<span class="time-at-right">2025／05</span>
+  - 哥斯大黎加 蜜語 蜜處理（中）： 15（3／<small>2</small>／4／4／4）<span class="time-at-right">2025／05</span>
     - 粉水比 1：15
     - 厚實的甜感。
 
