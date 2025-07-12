@@ -120,6 +120,9 @@ ref: coffee-review
   - 衣索比亞／哥倫比亞 NICHI 五週年配方豆（中淺）：14（4／<small>3</small>／3／4／3）<span class="time-at-right">2025／05</span>
     - 粉水比 1：15
     - 花果香氣。嚴格來說不太喜歡，但很特別。
+  - 衣索比亞 西達瑪 草莓白蘭地酒桶浸漬（中淺）：16（5／<small>3</small>／3／5／3）<span class="time-at-right">2025／07</span>
+    - 粉水比 1：15
+    - 明顯草莓酒香氣和風味，雖然喝起來不太習慣。
 - RD Cafe
   - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：13.5（3.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／05</span>
     - 粉水比 1：16
