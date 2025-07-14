@@ -75,8 +75,12 @@ ref: coffee-review
 - RD Cafe
   - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：13（3／<small>2</small>／3／4／3）<span class="time-at-right">2025／07</span>
     - 4 分的風味在於均衡順口。
+- KaKaLove Cafe[^kakalove-cafe]
+  - 衣索比亞 古吉 水風鈴 G1 水洗（淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／07</span>
+    - 淡雅花香、均衡。
 
-[^hido-coffee]: 大推所以附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
+[^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
+[^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
 
 ## 濾掛[^drip-bag]
 
