@@ -78,6 +78,8 @@ ref: coffee-review
 - KaKaLove Cafe[^kakalove-cafe]
   - 衣索比亞 古吉 水風鈴 G1 水洗（淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／07</span>
     - 淡雅花香、均衡。
+  - 秘魯 庫斯科 布埃納維斯塔 索娜拉 SL09 水洗（中淺）：17.5（3.5／<small>4</small>／5／5／4）<span class="time-at-right">2025／07</span>
+    - 可以感受到描述中的粉紅胡椒的香氣、蘋果般的酸質和金橘的風味，口感濃郁且層次豐富。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
