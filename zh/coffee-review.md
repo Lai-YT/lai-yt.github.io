@@ -80,6 +80,9 @@ ref: coffee-review
     - 淡雅花香、均衡。
   - 秘魯 庫斯科 布埃納維斯塔 索娜拉 SL09 水洗（中淺）：17.5（3.5／<small>4</small>／5／5／4）<span class="time-at-right">2025／07</span>
     - 可以感受到描述中的粉紅胡椒的香氣、蘋果般的酸質和金橘的風味，口感濃郁且層次豐富。
+  - 哥斯大黎加 多塔 女神莊園 藝伎 酵素水洗（中淺）：17（4／<small>4</small>／4／5／4）<span class="time-at-right">2025／07</span>
+    - 花椒香氣和風味。
+    - 香氣和「秘魯 SL09」有些相似且更突出，但整體層次不如它豐富。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
