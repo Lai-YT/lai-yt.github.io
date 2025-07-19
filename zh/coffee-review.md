@@ -111,7 +111,7 @@ ref: coffee-review
     - 可以再多些水把風味的層次拉出來。
   - 衣索比亞、哥斯大黎加 藝伎風味蜜糖花香（淺）：13.5（3.5／<small>3</small>／3／3／4）<span class="time-at-right">2025／03</span>
 - Script Coffee
-  - 衣索比亞 VOID 配方豆 日曬（中）：13.5（3.5／<small>3</small>／3／3／4）<span class="time-at-right">2025／04</span>
+  - 衣索比亞 VOID 配方豆 日曬（中）：14.5（3.5／<small>3</small>／4／3／4）<span class="time-at-right">2025／07</span>
   - 衣索比亞／哥倫比亞 NICHI 五週年配方豆（中淺）：14（4／<small>3</small>／3／4／3）<span class="time-at-right">2025／05</span>
     - 花果香氣。嚴格來說不太喜歡，但很特別。
   - 衣索比亞 西達瑪 草莓白蘭地酒桶浸漬（中淺）：16（5／<small>3</small>／3／5／3）<span class="time-at-right">2025／07</span>
