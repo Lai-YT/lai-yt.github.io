@@ -68,6 +68,9 @@ ref: coffee-review
   - 瓜地馬拉 微微特南果 水洗（中深）：14（3／<small>2</small>／4／4／3）<span class="time-at-right">2025／06</span>
   - 薩爾瓦多 聖依蓮那莊園 日曬（中淺）：14.5（3.5／<small>3</small>／4／4／3）<span class="time-at-right">2025／08</span>
     - 熟豆有香甜的發酵味，可惜沒有呈現出來。主基調是煙燻烏梅。
+  - 巴拿馬 卡門莊園 水洗（中淺）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／08</span>
+    - 木質調明顯。
+    - 瑕疵豆有點多。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
