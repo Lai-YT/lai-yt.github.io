@@ -126,6 +126,10 @@ ref: coffee-review
     - 4 分的風味在於均衡順口。
   - 哥斯大黎加 蜜語 蜜處理（中）： 15（3／<small>2</small>／4／4／4）<span class="time-at-right">2025／05</span>
     - 厚實的甜感。
+- KaKaLove Cafe
+  - 瓜地馬拉 阿卡特南果 黑內拉莊園 波旁 日曬（中淺）：14.5（3.5／<small>3</small>／4／3／4）<span class="time-at-right">2025／08</span>
+    - 1：17，水加太多。
+    - 溫順綿長的甜感。
 
 [^drip-bag]: 雖然不是自己磨，但也會倒出來用濾杯，萃取得比較好，而且也公平。
 
