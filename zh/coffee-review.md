@@ -88,6 +88,7 @@ ref: coffee-review
   - 哥斯大黎加 多塔 女神莊園 藝伎 酵素水洗（中淺）：17（4／<small>4</small>／4／5／4）<span class="time-at-right">2025／07</span>
     - 花椒香氣和風味，尾韻甘甜。
     - 香氣和「秘魯 SL09」有些相似且更突出，但整體層次不如它豐富。
+  - 瓜地馬拉／衣索比亞 榛愛配方（中）：15（3／<small>3</small>／5／4／3）<span class="time-at-right">2025／08</span>
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
