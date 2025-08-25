@@ -34,7 +34,7 @@ ref: coffee-review
 
 > 舉例來說，20 克豆子若用粉水比 1：15，會有 300 克。第一次注水 40 克，第二次 80 克，後面三次各 60 克。開始注水的時間分別是 0、45、90、135、180 秒。
 
-[^46method]: <https://youtu.be/wmCW8xSWGZY>
+[^46method]: [_A Coffee Brewing Theory "4:6 method" Invented by Tetsu Kasuya\_ World Brewers Cup 2016 Champion,_ HARIO Official Channel.](https://youtu.be/wmCW8xSWGZY)
 
 ### 小記
 
