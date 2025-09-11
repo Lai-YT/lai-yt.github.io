@@ -89,6 +89,8 @@ ref: coffee-review
     - 花椒香氣和風味，尾韻甘甜。
     - 香氣和「秘魯 SL09」有些相似且更突出，但整體層次不如它豐富。
   - 瓜地馬拉／衣索比亞 榛愛配方（中）：15（3／<small>3</small>／5／4／3）<span class="time-at-right">2025／08</span>
+  - 瓜地馬拉／衣索比亞／哥倫比亞 金鵡門配方（深）：15.5（3.5／<small>2</small>／5／4／3）<span class="time-at-right">2025／09</span>
+    - 沉穩的香氣、烤製風味和後面突然轉化出的黑巧克力餘韻。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
@@ -127,11 +129,15 @@ ref: coffee-review
     - 4 分的風味在於均衡順口。
   - 哥斯大黎加 蜜語 蜜處理（中）： 15（3／<small>2</small>／4／4／4）<span class="time-at-right">2025／05</span>
     - 厚實的甜感。
-- KaKaLove Cafe
+- KaKaLove Cafe[^kakalove-drip-bag]
   - 瓜地馬拉 阿卡特南果 黑內拉莊園 波旁 日曬（中淺）：14.5（3.5／<small>3</small>／4／3／4）<span class="time-at-right">2025／08</span>
     - 1：17，水加太多。
     - 溫順綿長的甜感。
+  - 衣索比亞 耶加雪菲 果丁丁村 阿利姆布卡托小農 G1 水洗（淺）：15（4／<small>3</small>／3／4／4）<span class="time-at-right">2025／09</span>
+    - 佛手柑香氣。
+    - 水果調性的酸帶出尾韻的甜。
 
 [^drip-bag]: 雖然不是自己磨，但也會倒出來用濾杯，萃取得比較好，而且也公平。
+[^kakalove-drip-bag]: 粉較細，可能是為了濾掛的流速，但倒出來用濾紙沖即使是 V60 也會淹水。
 
 ---
