@@ -91,6 +91,8 @@ ref: coffee-review
   - 瓜地馬拉／衣索比亞 榛愛配方（中）：15（3／<small>3</small>／5／4／3）<span class="time-at-right">2025／08</span>
   - 瓜地馬拉／衣索比亞／哥倫比亞 金鵡門配方（深）：15.5（3.5／<small>2</small>／5／4／3）<span class="time-at-right">2025／09</span>
     - 沉穩的香氣、烤製風味和後面突然轉化出的黑巧克力餘韻。
+  - 肯亞 冽里山 AB 獵豹批次 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／09</span>
+    - 圓潤多汁，尾韻甘甜。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
