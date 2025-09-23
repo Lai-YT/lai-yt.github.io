@@ -66,8 +66,9 @@ ref: coffee-review
   - 衣索比亞 薔薇 日曬（淺）：14（4／<small>3</small>／3／4／3）<span class="time-at-right">2025／06</span>
     - 莓果香氣，口感乾淨。
   - 瓜地馬拉 微微特南果 水洗（中深）：14（3／<small>2</small>／4／4／3）<span class="time-at-right">2025／06</span>
-  - 薩爾瓦多 聖依蓮那莊園 日曬（中淺）：14.5（3.5／<small>3</small>／4／4／3）<span class="time-at-right">2025／08</span>
-    - 熟豆有香甜的發酵味，可惜沒有呈現出來。主基調是煙燻烏梅。
+  - 薩爾瓦多 聖依蓮那莊園 日曬（中淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／09</span>
+    - 熟豆有香甜的發酵味；隨著溫度降低顯現在風味上。
+    - 風味帶點煙燻感。
   - 巴拿馬 卡門莊園 水洗（中淺）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／08</span>
     - 木質調明顯。
     - 瑕疵豆有點多。
