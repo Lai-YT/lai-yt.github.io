@@ -94,6 +94,8 @@ ref: coffee-review
     - 沉穩的香氣、烤製風味和後面突然轉化出的黑巧克力餘韻。
   - 肯亞 冽里山 AB 獵豹批次 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／09</span>
     - 圓潤多汁，尾韻甘甜。
+  - 衣索比亞 古吉 烏拉嘎 傑米批次 水洗（中深）：13.5（3.5／<small>1</small>／4／3／3）<span class="time-at-right">2025／09</span>
+    - 木質的雪松基調。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
