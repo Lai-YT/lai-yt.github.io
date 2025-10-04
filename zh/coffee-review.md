@@ -96,6 +96,8 @@ ref: coffee-review
     - 圓潤多汁，尾韻甘甜。
   - 衣索比亞 古吉 烏拉嘎 傑米批次 水洗（中深）：13.5（3.5／<small>1</small>／4／3／3）<span class="time-at-right">2025／09</span>
     - 木質的雪松基調。
+  - 衣索比亞／瓜地馬拉／哥倫比亞／哥斯大黎加 藝伎 月月浴室配方（中淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2025／10</span>
+    - 花椒、莓果香氣和風味。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
