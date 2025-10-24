@@ -14,8 +14,8 @@ ref: coffee-review
 ## 沖泡器具
 
 - 磨豆機
-  - _泰摩栗子 C2_（手搖）
-  - _1Zpresso X Ultra_（手搖）<small>(2025／06 之後)</small>
+  - _1Zpresso X Ultra_（手搖）
+  - _泰摩栗子 C2_（手搖）<small>(2025／06 以前)</small>
 - 濾杯：_HARIO V60 01_（磁石）
 
 ## 沖泡手法
@@ -67,11 +67,9 @@ ref: coffee-review
     - 莓果香氣，口感乾淨。
   - 瓜地馬拉 微微特南果 水洗（中深）：14（3／<small>2</small>／4／4／3）<span class="time-at-right">2025／06</span>
   - 薩爾瓦多 聖依蓮那莊園 日曬（中淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／09</span>
-    - 熟豆有香甜的發酵味；隨著溫度降低顯現在風味上。
-    - 風味帶點煙燻感。
+    - 熟豆有香甜的發酵味；隨著溫度降低顯現在風味上，並帶點煙燻感。
   - 巴拿馬 卡門莊園 水洗（中淺）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／08</span>
-    - 木質調明顯。
-    - 瑕疵豆有點多。
+    - 木質調明顯；瑕疵豆有點多。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
@@ -92,8 +90,8 @@ ref: coffee-review
   - 瓜地馬拉／衣索比亞 榛愛配方（中）：15（3／<small>3</small>／5／4／3）<span class="time-at-right">2025／08</span>
   - 瓜地馬拉／衣索比亞／哥倫比亞 金鵡門配方（深）：15.5（3.5／<small>2</small>／5／4／3）<span class="time-at-right">2025／09</span>
     - 沉穩的香氣、烤製風味和後面突然轉化出的黑巧克力餘韻。
-  - 肯亞 冽里山 AB 獵豹批次 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／09</span>
-    - 圓潤多汁，尾韻甘甜。
+  - 肯亞 冽里山 獵豹批次 AB 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／09</span>
+    - 葡萄酒般的結構，圓潤多汁，尾韻甘甜。
   - 衣索比亞 古吉 烏拉嘎 傑米批次 水洗（中深）：13.5（3.5／<small>1</small>／4／3／3）<span class="time-at-right">2025／09</span>
     - 木質的雪松基調。
   - 衣索比亞／瓜地馬拉／哥倫比亞／哥斯大黎加 藝伎 月月浴室配方（中淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2025／10</span>
@@ -141,8 +139,7 @@ ref: coffee-review
     - 1：17，水加太多。
     - 溫順綿長的甜感。
   - 衣索比亞 耶加雪菲 果丁丁村 阿利姆布卡托小農 G1 水洗（淺）：15（4／<small>3</small>／3／4／4）<span class="time-at-right">2025／09</span>
-    - 佛手柑香氣。
-    - 水果調性的酸帶出尾韻的甜。
+    - 佛手柑香氣；水果調性的酸帶出尾韻的甜。
 
 [^drip-bag]: 雖然不是自己磨，但也會倒出來用濾杯，萃取得比較好，而且也公平。
 [^kakalove-drip-bag]: 粉較細，可能是為了濾掛的流速，但倒出來用濾紙沖即使是 V60 也會淹水。
