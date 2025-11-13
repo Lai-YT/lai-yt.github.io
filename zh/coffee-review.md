@@ -70,11 +70,15 @@ ref: coffee-review
     - 熟豆有香甜的發酵味；隨著溫度降低顯現在風味上，並帶點煙燻感。
   - 巴拿馬 卡門莊園 水洗（中淺）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／08</span>
     - 木質調明顯；瑕疵豆有點多。
+  - 哥倫比亞 聖徒阿里歐 愛情靈藥 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／10</span>
+    - 和「肯亞 冽里山」有相似的葡萄汁感，夾帶黑李的沉穩酸質，但整體風味、餘韻較弱。
+  - 衣索比亞 古吉 世界冠軍特選 水洗（淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／10</span>
+    - 淡雅花香、均衡，尾韻柔順甘甜。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
 - 花心咖啡
-  - 衣索比亞 班奇馬吉藝伎 酒香日曬（中淺）：14.5（4.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／03</span>
+  - 衣索比亞 班奇馬吉 藝伎 酒香日曬（中淺）：14.5（4.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／03</span>
     - 特別的香氣。嚴格來說不太喜歡，但很特別。
 - RD Cafe
   - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：15（3／<small>3</small>／4／4／4）<span class="time-at-right">2025／07</span>
@@ -96,6 +100,11 @@ ref: coffee-review
     - 木質的雪松基調。
   - 衣索比亞／瓜地馬拉／哥倫比亞／哥斯大黎加 藝伎 月月浴室配方（中淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2025／10</span>
     - 花椒、莓果香氣和風味。
+  - 衣索比亞 古吉 罕貝拉 布穀 日曬（淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／11</span>
+    - 香糖般甜感。
+  - 衣索比亞／哥倫比亞／瓜地馬拉 榛榛日上配方（中）：14（3／<small>2</small>／5／3／3）<span class="time-at-right">2025／11</span>
+  - 哥斯大黎加 米拉蘇莊園 Catajo 藝伎配方 葡萄乾蜜處理（中淺）：17（4／<small>2</small>／5／4／4）<span class="time-at-right">2025／11</span>
+    - 明確的葡萄軟糖香氣和風味；有些甜膩。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
