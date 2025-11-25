@@ -71,7 +71,7 @@ ref: coffee-review
   - 巴拿馬 卡門莊園 水洗（中淺）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／08</span>
     - 木質調明顯；瑕疵豆有點多。
   - 哥倫比亞 聖徒阿里歐 愛情靈藥 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／10</span>
-    - 和「肯亞 冽里山」有相似的葡萄汁感，夾帶黑李的沉穩酸質，但整體風味、餘韻較弱。
+    - 和「<a href="#kenya-cheetah">肯亞 獵豹批次</a>」有相似的葡萄汁感，夾帶黑李的沉穩酸質，但整體風味、餘韻較弱。
   - 衣索比亞 古吉 世界冠軍特選 水洗（淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／10</span>
     - 淡雅花香、均衡，尾韻柔順甘甜。
 - 星巴克
@@ -86,15 +86,15 @@ ref: coffee-review
 - KaKaLove Cafe[^kakalove-cafe]
   - 衣索比亞 古吉 水風鈴 G1 水洗（淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／07</span>
     - 淡雅花香、均衡。
-  - 秘魯 庫斯科 布埃納維斯塔 索娜拉 SL09 水洗（中淺）：17.5（3.5／<small>4</small>／5／5／4）<span class="time-at-right">2025／07</span>
+  - 秘魯 庫斯科 布埃納維斯塔 索娜拉 SL09 水洗（中淺）：17.5（3.5／<small>4</small>／5／5／4）<span class="time-at-right">2025／07</span><span id="peru-sl09"></span>
     - 可以感受到描述中的粉紅胡椒的香氣、蘋果般的酸質和金橘的風味，口感濃郁且層次豐富。
   - 哥斯大黎加 多塔 女神莊園 藝伎 酵素水洗（中淺）：17（4／<small>4</small>／4／5／4）<span class="time-at-right">2025／07</span>
     - 花椒香氣和風味，尾韻甘甜。
-    - 香氣和「秘魯 SL09」有些相似且更突出，但整體層次不如它豐富。
+    - 香氣和「<a href="#peru-sl09">秘魯 SL09</a>」有些相似且更突出，但整體層次不如它豐富。
   - 瓜地馬拉／衣索比亞 榛愛配方（中）：15（3／<small>3</small>／5／4／3）<span class="time-at-right">2025／08</span>
   - 瓜地馬拉／衣索比亞／哥倫比亞 金鵡門配方（深）：15.5（3.5／<small>2</small>／5／4／3）<span class="time-at-right">2025／09</span>
     - 沉穩的香氣、烤製風味和後面突然轉化出的黑巧克力餘韻。
-  - 肯亞 冽里山 獵豹批次 AB 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／09</span>
+  - 肯亞 冽里山 獵豹批次 AB 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／09</span><span id="kenya-cheetah"></span>
     - 葡萄酒般的結構，圓潤多汁，尾韻甘甜。
   - 衣索比亞 古吉 烏拉嘎 傑米批次 水洗（中深）：14.5（3.5／<small>1</small>／5／3／3）<span class="time-at-right">2025／11</span>
     - 木質的雪松基調。
