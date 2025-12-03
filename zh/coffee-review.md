@@ -107,6 +107,8 @@ ref: coffee-review
     - 明確的葡萄軟糖香氣和風味；有些甜膩。
   - 衣索比亞 希達馬 聖塔維尼 Niguse Gemeda G1 日曬（中淺）：16.5（3.5／<small>3</small>／4／5／4）<span class="time-at-right">2025／11</span>
     - 低溫時有熟藍莓的發酵香味。
+  - 瓜地馬拉 阿卡特南果 黑內拉莊園 暗黑之丘批次 水洗（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
+    - 榛果香氣和風味，溫潤沉穩，口感滑順。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
@@ -151,11 +153,13 @@ ref: coffee-review
     - 溫順綿長的甜感。
   - 衣索比亞 耶加雪菲 果丁丁村 阿利姆布卡托小農 G1 水洗（淺）：15（4／<small>3</small>／3／4／4）<span class="time-at-right">2025／09</span>
     - 佛手柑香氣；水果調性的酸帶出尾韻的甜。
+  - 哥斯大黎加 塔拉珠 黑晶 日曬（中淺）：10（2／<small>2</small>／2／3／3）<span class="time-at-right">2025／12</span>
+  - 衣索比亞 希達馬 班莎 龐貝 G1 日曬（淺）：15.5（3.5／<small>2</small>／4／4／4）<span class="time-at-right">2025／12</span>
 - 雷恩獅咖啡
   - 尼加拉瓜／巴西／印尼 藍山風味（中深）：14（3／<small>1</small>／4／3／4）<span class="time-at-right">2025／11</span>
     - 尾韻帶點堅果調性的甜。
 
 [^drip-bag]: 雖然不是自己磨，但也會倒出來用濾杯，萃取得比較好，而且也公平。
-[^kakalove-drip-bag]: 粉較細，可能是為了濾掛的流速，但倒出來用濾紙沖即使是 V60 也會淹水。
+[^kakalove-drip-bag]: 粉較細，可能是為了濾掛的流速。倒出來用濾紙沖即使是 V60 也會淹水。
 
 ---
