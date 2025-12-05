@@ -109,9 +109,12 @@ ref: coffee-review
     - 低溫時有熟藍莓的發酵香味。
   - 瓜地馬拉 阿卡特南果 黑內拉莊園 暗黑之丘批次 水洗（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 榛果香氣和風味，溫潤沉穩，口感滑順。
+  - 衣索比亞 古吉 柑膽相照批次 水洗（中深）：10（3／<small>1</small>／5／1／1）<span class="time-at-right">2025／12</span>
+    - 突兀的苦澀[^bitter]。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
+[^bitter]: 用了較低的水溫和較粗的研磨度仍然如此。
 
 ## 濾掛[^drip-bag]
 
