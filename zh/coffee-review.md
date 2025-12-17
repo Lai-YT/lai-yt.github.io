@@ -100,8 +100,8 @@ ref: coffee-review
     - 木質的雪松基調。
   - 衣索比亞／瓜地馬拉／哥倫比亞／哥斯大黎加 藝伎 月月浴室配方（中淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2025／10</span>
     - 花椒、莓果香氣和風味。
-  - 衣索比亞 古吉 罕貝拉 布穀 Bella Station G1 日曬（淺）[^toh-africa-champion]：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／11</span>
-    - 香糖般甜感。
+  - 衣索比亞 古吉 罕貝拉 布穀 Bella Station G1 日曬（淺）[^toh-africa-champion]：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2025／12</span>
+    - 莓果風味，尾韻甘甜。
   - 衣索比亞／哥倫比亞／瓜地馬拉 榛榛日上配方（中）：14（3／<small>2</small>／5／3／3）<span class="time-at-right">2025／11</span>
   - 哥斯大黎加 米拉蘇莊園 Catajo 藝伎配方 葡萄乾蜜處理（中淺）：17（4／<small>2</small>／5／4／4）<span class="time-at-right">2025／11</span>
     - 明確的葡萄軟糖香氣和風味；有些甜膩。
@@ -109,8 +109,8 @@ ref: coffee-review
     - 低溫時有熟藍莓的發酵香味。
   - 瓜地馬拉 阿卡特南果 黑內拉莊園 暗黑之丘批次 水洗（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 榛果香氣和風味，溫潤沉穩，口感滑順。
-  - 衣索比亞 古吉 柑膽相照批次 水洗（中深）：10（3／<small>1</small>／5／1／1）<span class="time-at-right">2025／12</span>
-    - 突兀的苦澀[^bitter]。
+  - 衣索比亞 古吉 柑膽相照批次 水洗（中深）：12（3／<small>1</small>／4／3／2）<span class="time-at-right">2025／12</span>
+    - 用 4：6 法會有突兀的苦澀[^bitter]，要用三刀流等快流速的方式沖泡。
   - 哥斯大黎加 塔拉珠 黑晶 日曬（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 黑莓風味，柔和的酸質，巧克力的尾韻。
 
