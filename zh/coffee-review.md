@@ -113,6 +113,8 @@ ref: coffee-review
     - 用 4：6 法會有突兀的苦澀[^bitter]，要用三刀流等快流速的方式沖泡。
   - 哥斯大黎加 塔拉珠 黑晶 日曬（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 黑莓風味，柔和的酸質，巧克力的尾韻。
+  - 哥倫比亞 Quecan Estate 卡斯提優 甜瓜 酵素水洗（中淺）：13（4／<small>2</small>／3／4／2）<span class="time-at-right">2025／12</span>
+    - 明亮的甜瓜香氣和風味，但酸值帶出的尾韻有些苦，整體平衡感及飽滿度較低。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
