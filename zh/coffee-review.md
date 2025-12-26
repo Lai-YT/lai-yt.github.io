@@ -74,6 +74,8 @@ ref: coffee-review
     - 和「<a href="#kenya-cheetah">肯亞 獵豹批次</a>」有相似的葡萄汁感，夾帶黑李的沉穩酸質，但整體風味、餘韻較弱。
   - 衣索比亞 古吉 世界冠軍特選 水洗（淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／10</span>
     - 淡雅花香、均衡，尾韻柔順甘甜。
+  - 衣索比亞 蓋德奧 耶加雪菲 格瑞希 水洗（淺）：15.5（3.5／<small>3</small>／4／4／4）<span class="time-at-right">2025／12</span>
+    - 淡茴香風味、口感乾淨，尾韻甘甜。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
