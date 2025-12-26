@@ -58,8 +58,8 @@ ref: coffee-review
 ## 咖啡豆
 
 - 嘻豆咖啡[^hido-coffee]
-  - 衣索比亞 霓映莓果 日曬（淺）：16.5（3.5／<small>4</small>／4／4／5）<span class="time-at-right">2025／02</span>
-  - 瓜地馬拉 酒香背影 酒香日曬（中淺）：15（3／<small>3</small>／4／4／4）<span class="time-at-right">2025／04</span>
+  - 衣索比亞 西達摩 霓映莓果 日曬（淺）：16.5（3.5／<small>4</small>／4／4／5）<span class="time-at-right">2025／02</span>
+  - 瓜地馬拉 新東方 酒香背影 酒香日曬（中淺）：15（3／<small>3</small>／4／4／4）<span class="time-at-right">2025／04</span>
     - 烏梅風味明顯。
   - 肯亞 頂級肯亞 AA 水洗（中深）：14（3／<small>2</small>／4／3／4）<span class="time-at-right">2025／05</span>
     - 均衡，尾韻帶點甜感。
