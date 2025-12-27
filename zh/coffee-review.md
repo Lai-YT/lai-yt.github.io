@@ -66,7 +66,7 @@ ref: coffee-review
   - 衣索比亞 薔薇 日曬（淺）：14（4／<small>3</small>／3／4／3）<span class="time-at-right">2025／06</span>
     - 莓果香氣，口感乾淨。
   - 瓜地馬拉 微微特南果 水洗（中深）：14（3／<small>2</small>／4／4／3）<span class="time-at-right">2025／06</span>
-  - 薩爾瓦多 聖依蓮那莊園 日曬（中淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／09</span>
+  - 薩爾瓦多 聖依蓮那莊園 日曬（中淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／09</span><span id="salvador-santa-elena"></span>
     - 熟豆有香甜的發酵味；隨著溫度降低顯現在風味上，並帶點煙燻感。
   - 巴拿馬 卡門莊園 水洗（中淺）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／08</span>
     - 木質調明顯；瑕疵豆有點多。
@@ -76,6 +76,8 @@ ref: coffee-review
     - 淡雅花香、均衡，尾韻柔順甘甜。
   - 衣索比亞 蓋德奧 耶加雪菲 格瑞希 水洗（淺）：15.5（3.5／<small>3</small>／4／4／4）<span class="time-at-right">2025／12</span>
     - 淡茴香風味、口感乾淨，尾韻甘甜。
+  - 哥倫比亞 薇拉 聖奧古斯丁 水洗（中）：16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
+    - 似烤榛果或龍眼乾的沉穩風味。水果基調像「<a href="#salvador-santa-elena">薩爾瓦多 聖依蓮那</a>」。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
