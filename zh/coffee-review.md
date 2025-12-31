@@ -107,7 +107,7 @@ ref: coffee-review
   - 衣索比亞 古吉 罕貝拉 布穀 Bella Station G1 日曬（淺）[^toh-africa-champion]：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 莓果風味，尾韻甘甜。
   - 衣索比亞／哥倫比亞／瓜地馬拉 榛榛日上配方（中）：14（3／<small>2</small>／5／3／3）<span class="time-at-right">2025／11</span>
-  - 哥斯大黎加 米拉蘇莊園 Catajo 藝伎配方 葡萄乾蜜處理（中淺）：17（4／<small>2</small>／5／4／4）<span class="time-at-right">2025／11</span>
+  - 哥斯大黎加 米拉蘇莊園 Catajo 藝伎配方 葡萄乾蜜處理（中淺）：17（4／<small>2</small>／4／5／4）<span class="time-at-right">2025／12</span>
     - 明確的葡萄軟糖香氣和風味；有些甜膩。
   - 衣索比亞 希達馬 聖塔維尼 Niguse Gemeda G1 日曬（中淺）：16.5（3.5／<small>3</small>／4／5／4）<span class="time-at-right">2025／11</span>
     - 低溫時有熟藍莓的發酵香味。
