@@ -119,6 +119,8 @@ ref: coffee-review
     - 黑莓風味，柔和的酸質，巧克力的尾韻。
   - 哥倫比亞 Quecan Estate 卡斯提優 甜瓜 酵素水洗（中淺）：13（4／<small>2</small>／3／4／2）<span class="time-at-right">2025／12</span>
     - 明亮的甜瓜香氣和風味，但酸值帶出的尾韻有些苦，整體平衡感及飽滿度較低。
+  - 瓜地馬拉／哥倫比亞／衣索比亞 小黑喵配方（深）：14（3／<small>1</small>／5／3／3）<span class="time-at-right">2026／01</span>
+    - 榛果香氣，夾帶雪松的風味，口感厚重，苦而不澀。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
