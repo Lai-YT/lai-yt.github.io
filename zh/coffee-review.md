@@ -156,6 +156,7 @@ ref: coffee-review
     - 花果香氣。嚴格來說不太喜歡，但很特別。
   - 衣索比亞 西達瑪 草莓白蘭地酒桶浸漬（中淺）：16（5／<small>3</small>／3／5／3）<span class="time-at-right">2025／07</span>
     - 明顯草莓酒香氣和風味，雖然喝起來不太習慣。
+  - 巴拿馬 波魁特 驢子莊園 卡杜依 樹上完熟 水洗（中淺）：13.5（3.5／<small>2</small>／3／4／3）<span class="time-at-right">2026／01</span>
 - RD Cafe
   - 中南美洲／亞洲／非洲 RD 1 號 水洗／日曬（中深）：13.5（3.5／<small>3</small>／3／4／3）<span class="time-at-right">2025／05</span>
     - 4 分的風味在於均衡順口。
