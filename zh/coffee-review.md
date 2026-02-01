@@ -74,7 +74,7 @@ ref: coffee-review
     - 和「<a href="#kenya-cheetah">肯亞 獵豹批次</a>」有相似的葡萄汁感，夾帶黑李的沉穩酸質，但整體風味、餘韻較弱。
   - 衣索比亞 古吉 世界冠軍特選 水洗（淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／10</span>
     - 淡雅花香、均衡，尾韻柔順甘甜。
-  - 衣索比亞 蓋德奧 耶加雪菲 格瑞希 水洗（淺）：15.5（3.5／<small>3</small>／4／4／4）<span class="time-at-right">2025／12</span>
+  - 衣索比亞 蓋德奧 耶加雪菲 格瑞希 水洗（淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／01</span>
     - 淡茴香風味、口感乾淨，尾韻甘甜。
   - 哥倫比亞 薇拉 聖奧古斯丁 水洗（中）：16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 似烤榛果或龍眼乾的沉穩風味。水果基調像「<a href="#salvador-santa-elena">薩爾瓦多 聖依蓮那</a>」。
@@ -121,6 +121,9 @@ ref: coffee-review
     - 明亮的甜瓜香氣和風味，但酸值帶出的尾韻有些苦，整體平衡感及飽滿度較低。
   - 瓜地馬拉／哥倫比亞／衣索比亞 小黑喵配方（深）：14（3／<small>1</small>／5／3／3）<span class="time-at-right">2026／01</span>
     - 榛果香氣，夾帶雪松的風味，口感厚重，苦而不澀。
+  - 尼加拉瓜 米耶瑞詡家族 足跡莊園 橘波旁 水洗（中）：15（3／<small>2</small>／4／4／4）<span class="time-at-right">2026／01</span>
+  - 祕魯 卡瑪哈卡 嚕嚕啦啦莊園 Costa Rica95 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／01</span>
+    - 李子香氣和風味，柔順酸質，圓潤多汁。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
