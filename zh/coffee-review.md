@@ -78,6 +78,10 @@ ref: coffee-review
     - 淡茴香風味、口感乾淨，尾韻甘甜。
   - 哥倫比亞 薇拉 聖奧古斯丁 水洗（中）：16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 似烤榛果或龍眼乾的沉穩風味。水果基調像「<a href="#salvador-santa-elena">薩爾瓦多 聖依蓮那</a>」。
+  - 宏都拉斯 聖安德烈 水洗（中淺）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span>
+    - 溫順的微酸帶出尾韻的甜，口感乾淨滑順。
+  - 盧安達 天空之城 厭氧蜜（中）16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span>
+    - 乾淨的紅糖甜感。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
@@ -124,6 +128,10 @@ ref: coffee-review
   - 尼加拉瓜 米耶瑞詡家族 足跡莊園 橘波旁 水洗（中）：15（3／<small>2</small>／4／4／4）<span class="time-at-right">2026／01</span>
   - 祕魯 卡瑪哈卡 嚕嚕啦啦莊園 Costa Rica95 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／01</span>
     - 李子香氣和風味，柔順酸質，圓潤多汁。
+- 虎記商行
+  - 秘魯／肯亞／衣索比亞／哥倫比亞／宏都拉斯 咕溜配方（深）：15.5（3.5／<small>1</small>／5／4／3）<span class="time-at-right">2026／02</span>
+  - 哥斯大黎加 布蘭卡 寶藏莊園 里瓦斯人處理廠 黑蜜（淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2026／02</span>
+    - 淡雅的莓果調性。
 
 [^hido-coffee]: 還不錯的小店，附上 [嘻豆的 FB](https://www.facebook.com/hola75coffee/)。
 [^kakalove-cafe]: [網站](https://www.kakalovecafe.com.tw/) 不錯，描述很清楚。
