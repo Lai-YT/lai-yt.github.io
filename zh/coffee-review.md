@@ -82,6 +82,8 @@ ref: coffee-review
     - 溫順的微酸帶出尾韻的甜，口感乾淨滑順。
   - 盧安達 天空之城 厭氧蜜（中）16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span>
     - 乾淨的紅糖甜感。
+  - 瓜地馬拉 安堤瓜 花神 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／03</span>
+    - 木質調的甜感混合著花香。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
