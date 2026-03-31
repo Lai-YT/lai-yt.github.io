@@ -127,11 +127,14 @@ ref: coffee-review
     - 明亮的甜瓜香氣和風味，但酸值帶出的尾韻有些苦，整體平衡感及飽滿度較低。
   - 瓜地馬拉／哥倫比亞／衣索比亞 小黑喵配方（深）：14（3／<small>1</small>／5／3／3）<span class="time-at-right">2026／01</span>
     - 榛果香氣，夾帶雪松的風味，口感厚重，苦而不澀。
-  - 尼加拉瓜 米耶瑞詡家族 足跡莊園 橘波旁 水洗（中）：15（3／<small>2</small>／4／4／4）<span class="time-at-right">2026／01</span>
+  - 尼加拉瓜 米耶瑞詡家族 足跡莊園 橘波旁 水洗（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span>
+    - 杏仁果香氣和風味，尾韻甘甜。
   - 祕魯 卡瑪哈卡 嚕嚕啦啦莊園 Costa Rica95 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／01</span>
     - 李子香氣和風味，柔順酸質，圓潤多汁。
   - 哥倫比亞／衣索比亞 粉紅泡泡配方（中淺）：15（4／<small>2</small>／4／4／3）<span class="time-at-right">2026／03</span>
     - 介於草莓和瓜之間的明顯香氣和風味。像較好喝的「<a href="#colombia-quecan">哥倫比亞 甜瓜</a>」。
+  - 衣索比亞 古吉 水風鈴 G1 水洗（淺）：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2026／03</span>
+    - 星星茉莉香氣，伴隨柔和甜潤的帶核水果酸甜底蘊。
 - 虎記商行
   - 秘魯／肯亞／衣索比亞／哥倫比亞／宏都拉斯 咕溜配方（深）：15.5（3.5／<small>1</small>／5／4／3）<span class="time-at-right">2026／02</span>
   - 哥斯大黎加 布蘭卡 寶藏莊園 里瓦斯人處理廠 黑蜜（淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2026／02</span>
