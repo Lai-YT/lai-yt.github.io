@@ -135,6 +135,8 @@ ref: coffee-review
     - 介於草莓和瓜之間的明顯香氣和風味。像較好喝的「<a href="#colombia-quecan">哥倫比亞 甜瓜</a>」。
   - 衣索比亞 古吉 水風鈴 G1 水洗（淺）：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2026／03</span>
     - 星星茉莉香氣，伴隨柔和甜潤的帶核水果酸甜底蘊。
+  - 葉門 摩卡 哈拉茲 日曬（中）：16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2026／04</span>
+    - 香料和黑莓香氣，深色果乾的風味帶出些許香料味的尾韻，口感平衡。
 - 虎記商行
   - 秘魯／肯亞／衣索比亞／哥倫比亞／宏都拉斯 咕溜配方（深）：15.5（3.5／<small>1</small>／5／4／3）<span class="time-at-right">2026／02</span>
   - 哥斯大黎加 布蘭卡 寶藏莊園 里瓦斯人處理廠 黑蜜（淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2026／02</span>
