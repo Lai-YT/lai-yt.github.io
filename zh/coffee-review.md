@@ -84,6 +84,7 @@ ref: coffee-review
     - 乾淨的紅糖甜感。
   - 瓜地馬拉 安堤瓜 花神 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／03</span>
     - 木質調的甜感混合著花香。
+  - 衣索比亞 古吉 紅櫻桃莎莎 水洗（淺）：16（4／<small>3</small>／5／4／3）<span class="time-at-right">2026／04</span>
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
