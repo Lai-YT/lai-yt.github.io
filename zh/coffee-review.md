@@ -81,13 +81,17 @@ ref: coffee-review
     - 淡茴香風味、口感乾淨，尾韻甘甜。
   - 哥倫比亞 薇拉 聖奧古斯丁 水洗（中）：16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 似烤榛果或龍眼乾的沉穩風味。水果基調像「<a href="#salvador-santa-elena">薩爾瓦多 聖依蓮那</a>」。
-  - 宏都拉斯 聖安德烈 水洗（中淺）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span>
+  - 宏都拉斯 聖安德烈 水洗（中淺）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span><span id="honduras-san-andre"></span>
     - 溫順的微酸帶出尾韻的甜，口感乾淨滑順。
   - 盧安達 天空之城 厭氧蜜（中）16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span>
     - 乾淨的紅糖甜感。
   - 瓜地馬拉 安堤瓜 花神 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／03</span>
     - 木質調的甜感混合著花香。
   - 衣索比亞 古吉 紅櫻桃莎莎 水洗（淺）：16（4／<small>3</small>／5／4／3）<span class="time-at-right">2026／04</span>
+  - 衣索比亞 古吉 罕貝拉 酒香日曬（淺）：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2026／05</span>
+    - 葡萄軟糖的香氣和風味，尾韻帶有葡萄果乾的甜感，像更平衡的「<a href="#costa-rica-catajo">哥斯大黎加 Catajo</a>」。
+  - 衣索比亞 西達摩 水洗（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／05</span>
+    - 木質堅果基調像「<a href="#honduras-san-andre">宏都拉斯 聖安德烈</a>」，平衡的甜感和酸質。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
@@ -117,7 +121,7 @@ ref: coffee-review
   - 衣索比亞 古吉 罕貝拉 布穀 Bella Station G1 日曬（淺）[^toh-africa-champion]：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2025／12</span>
     - 莓果風味，尾韻甘甜。
   - 衣索比亞／哥倫比亞／瓜地馬拉 榛榛日上配方（中）：14（3／<small>2</small>／5／3／3）<span class="time-at-right">2025／11</span>
-  - 哥斯大黎加 米拉蘇莊園 Catajo 藝伎配方 葡萄乾蜜處理（中淺）：17（4／<small>2</small>／4／5／4）<span class="time-at-right">2025／12</span>
+  - 哥斯大黎加 米拉蘇莊園 Catajo 藝伎配方 葡萄乾蜜處理（中淺）：17（4／<small>2</small>／4／5／4）<span class="time-at-right">2025／12</span><span id="costa-rica-catajo"></span>
     - 明確的葡萄軟糖香氣和風味；有些甜膩。
   - 衣索比亞 希達馬 聖塔維尼 Niguse Gemeda G1 日曬（中淺）：16.5（3.5／<small>3</small>／4／5／4）<span class="time-at-right">2025／11</span>
     - 低溫時有熟藍莓的發酵香味。
