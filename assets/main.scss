@@ -26,6 +26,34 @@
   margin-left: 1em;
 }
 
+// Keep the title in a fixed column so the metadata lines up neatly.
+.post-content .book-title {
+  display: inline-block;
+  width: 10em;
+  margin-right: 0.75rem;
+  vertical-align: top;
+}
+
+// Let the metadata fill the remaining line after the title column.
+.post-content .book-meta {
+  display: inline;
+  font-size: 0.9em;
+}
+
+// On small screens, stack title and metadata to avoid cramped spacing.
+@media screen and (max-width: 480px) {
+  .post-content .book-title,
+  .post-content .book-meta {
+    display: block;
+    width: auto;
+  }
+
+  .post-content .book-title {
+    margin-right: 0;
+    margin-bottom: 0.25rem;
+  }
+}
+
 // Paragraphs in footnotes should be slightly smaller with no bottom margins.
 .footnotes p {
   margin-bottom: 0;

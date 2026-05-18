@@ -18,6 +18,8 @@ Especially the following domains:
 - Coffee :coffee:
   - Like acidity more than bitterness.
   - [Coffee Review (Chinese)](/zh/coffee-review.html)
+- Books :books:
+  - [Book Recommendations (Chinese)](/zh/book-recommendations.html)
 - Table Tennis :ping_pong:
   - Blade: _Nittaku Acoustic_, F: _XIOM Vega Pro_ (Max), B: _Nittaku Fastarc C-1_
 
