@@ -155,6 +155,8 @@ ref: coffee-review
     - 黃檸檬佐淡雅小蒼蘭香氣，清爽前段酸感，整體均衡，但尾韻較不足。
   - 哥倫比亞 薇拉省 雪松莊園 藝伎 水洗（中淺）：18（4／<small>3</small>／5／5／4）<span class="time-at-right">2026／07</span>
     - 柑橘精油、香水檸檬乾香，玫瑰花茶濕香，入口有玫瑰花茶、香水檸檬風味，優雅平衡。
+  - 坦尚尼亞 克里曼加羅 波旁 AA 水洗（中深）：15（3／<small>1</small>／5／3／4）<span class="time-at-right">2026／07</span>
+    - 烤杏仁果香氣，口感滑順。
 - 虎記商行
   - 秘魯／肯亞／衣索比亞／哥倫比亞／宏都拉斯 咕溜配方（深）：15.5（3.5／<small>1</small>／5／4／3）<span class="time-at-right">2026／02</span>
   - 哥斯大黎加 布蘭卡 寶藏莊園 里瓦斯人處理廠 黑蜜（淺）：15（4／<small>3</small>／4／4／3）<span class="time-at-right">2026／02</span>
