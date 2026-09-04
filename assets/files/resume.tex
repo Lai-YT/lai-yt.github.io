@@ -5,7 +5,7 @@
 \usepackage{enumitem}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[brazil]{babel}
+\usepackage{babel}
 \usepackage[left=1.06cm,top=0.98cm,right=1.06cm,bottom=0.49cm]{geometry}
 
 % CV - Harvard-like
@@ -15,7 +15,7 @@
 \begin{document}
 \begin{center}
     \textbf{\Large Yi-Ting Lai}\\
-    \href{mailto:ytlai.cs12@nycu.edu.tw}{ytlai.cs12@nycu.edu.tw} \textbullet \ \href{https://github.com/lai-yt}{github.com/lai-yt}
+    \href{mailto:ytlai.cs12@nycu.edu.tw}{ytlai.cs12@nycu.edu.tw} \textbullet \ \href{https://www.linkedin.com/in/lai-yt}{linkedin.com/in/lai-yt} \textbullet \ \href{https://github.com/lai-yt}{github.com/lai-yt}
 \end{center}
 
 \vspace{0.5pt}
@@ -26,10 +26,10 @@
 
 \textbf{National Yang Ming Chiao Tung University} \hfill Hsinchu, ROC
 
-MS Computer Science, \textit{Advisor: Yi-Ping You} \,\qquad GPA: 3.92/4.3 \hfill Sep 2023 -- Sep 2026 (expected)
+MS Computer Science, \textit{Advisor: Yi-Ping You} \,\qquad GPA: 3.92/4.3 \hfill Sep 2023--Aug 2026
 
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Thesis (tentative): \textbf{Compiler-Guided Exploitation of Block-Linear Memory Layout for Improving Intra-Warp Locality on GPUs}
+    \item Thesis: Improving Intra-Warp Cache Utilization on GPUs through Compiler-Guided Exploitation of Texture Hardware
     \item Courses: Advanced Compiler, Physical Design Automation, Accelerator Architectures for Machine Learning
 \end{itemize}
 
@@ -48,7 +48,7 @@ BS Electronic Engineering \enskip \qquad \qquad \qquad \qquad \qquad GPA: 3.96/4
 
 \textbf{Advanced Semiconductor Engineering, Inc.} \hfill Kaohsiung, ROC
 
-\textbf{IT Intern} \hfill Jul -- Aug 2022
+\textbf{IT Intern} \hfill Jul--Aug 2022
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
     \item Automated defect detection using \textbf{YOLOv5}.
     \item Visualized factory production and downtime metrics by building data dashboards with \textbf{Apache Superset}.
@@ -58,23 +58,27 @@ BS Electronic Engineering \enskip \qquad \qquad \qquad \qquad \qquad GPA: 3.96/4
     \textbf{TEACHING ASSISTANTSHIPS}\raggedright
 \end{center}
 
-NYCU Parallel Programming \hfill Sep -- Dec 2024, Feb -- Jun 2025
+NYCU Parallel Programming \hfill Sep--Dec 2024, Feb--Jun 2025
 
-NYCU Compiler Design, \textbf{Excellent Teaching Assistant Award} \hfill Feb -- Jun 2024
+NYCU Compiler Design, \textbf{Excellent Teaching Assistant Award} \hfill Feb--Jun 2024
 
-NYCU Introduction to Compiler Design \hfill Sep 2023 -- Jan 2024
+NYCU Introduction to Compiler Design \hfill Sep 2023--Jan 2024
 
-NTUT Object-Oriented Programming \hfill Feb -- Jun 2021
+NTUT Object-Oriented Programming \hfill Feb--Jun 2021
 
 \begin{center}
     \textbf{\Large PROJECTS}\raggedright \,\hrulefill
 \end{center}
 
-\textbf{Compiler-Guided Exploitation of Block-Linear Memory Layout for Improving Intra-Warp Locality on GPUs} | C++ \hfill Master Thesis
+\textbf{AutoTex} | C++ \hfill Master Thesis
 
-Implemented LLVM analyses and transformation passes that automatically map eligible GPU data to texture memory, exploiting the hardware-managed block-linear memory layout to improve intra-warp locality, thereby reducing cache-access wavefronts and alleviating memory-system contention.
+An LLVM-based compiler framework for GPU memory-layout optimization.
 
-\textbf{\href{https://github.com/fruits-lab/vitaminc}{VitaminC}} | C++ \hfill 2023 -- 2025
+\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
+    \item Reduced fetched sectors by 38\% at L1, 15\% at L2, and 21\% at DRAM across 17 kernels, achieving \(2.4\times\) speedup, by developing \textbf{LLVM passes} that detect access/layout mismatches and map data to \textbf{texture memory}.
+\end{itemize}
+
+\textbf{\href{https://github.com/fruits-lab/vitaminc}{VitaminC}} | C++ \hfill 2023--2025
 
 A C compiler targeting \textbf{QBE} and \textbf{LLVM IR}.
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
@@ -86,21 +90,12 @@ A C compiler targeting \textbf{QBE} and \textbf{LLVM IR}.
 \textbf{\href{https://github.com/Lai-YT/systolic-array}{Wav2Letter FPGA Accelerator}} | Verilog \hfill 2025
 
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Accelerated ASR inference by 15x, as measured by throughput, by designing a \textbf{systolic array} architecture.
+    \item Accelerated ASR inference by \(15\times\), as measured by throughput, by designing a \textbf{systolic array} architecture.
 \end{itemize}
 
 \vspace{6pt}
 
-\textbf{\href{https://github.com/Lai-YT/st-lang}{sT Compiler}} | C \hfill 2023
-
-A compiler for a self-designed language targeting \textbf{JASM} to run on the \textbf{JVM}.
-\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Designed a context-free grammar with documented syntax and semantics, implemented using \textbf{Flex} and \textbf{Bison}.
-\end{itemize}
-
-\vspace{6pt}
-
-\textbf{\href{https://github.com/Lai-YT/webcam-applications}{Concentration Judgment System}} | Python \hfill 2021 -- 2022
+\textbf{\href{https://github.com/Lai-YT/webcam-applications}{Concentration Judgment System}} | Python \hfill 2021--2022
 
 A student concentration analysis system for online courses.
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
