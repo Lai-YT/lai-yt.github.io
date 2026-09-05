@@ -74,13 +74,13 @@ ref: coffee-review
   - 巴拿馬 卡門莊園 水洗（中淺）：13（3／<small>2</small>／4／3／3）<span class="time-at-right">2025／08</span>
     - 木質調明顯；瑕疵豆有點多。
   - 哥倫比亞 聖徒阿里歐 愛情靈藥 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2025／10</span>
-    - 和「<a href="#kenya-cheetah">肯亞 獵豹批次</a>」有相似的葡萄汁感，夾帶黑李的沉穩酸質，但整體風味、餘韻較弱。
+    - 和「[肯亞 獵豹批次](#kenya-cheetah)」有相似的葡萄汁感，夾帶黑李的沉穩酸質，但整體風味、餘韻較弱。
   - 衣索比亞 古吉 世界冠軍特選 水洗（淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2025／10</span>
     - 淡雅花香、均衡，尾韻柔順甘甜。
   - 衣索比亞 蓋德奧 耶加雪菲 格瑞希 水洗（淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／01</span>
     - 淡茴香風味、口感乾淨，尾韻甘甜。
   - 哥倫比亞 薇拉 聖奧古斯丁 水洗（中）：16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2025／12</span>
-    - 似烤榛果或龍眼乾的沉穩風味。水果基調像「<a href="#salvador-santa-elena">薩爾瓦多 聖依蓮那</a>」。
+    - 似烤榛果或龍眼乾的沉穩風味。水果基調像「[薩爾瓦多 聖依蓮那](#salvador-santa-elena)」。
   - 宏都拉斯 聖安德烈 水洗（中淺）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span><span id="honduras-san-andre"></span>
     - 溫順的微酸帶出尾韻的甜，口感乾淨滑順。
   - 盧安達 天空之城 厭氧蜜（中）16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2026／02</span>
@@ -89,9 +89,9 @@ ref: coffee-review
     - 木質調的甜感混合著花香。
   - 衣索比亞 古吉 紅櫻桃莎莎 水洗（淺）：16（4／<small>3</small>／5／4／3）<span class="time-at-right">2026／04</span>
   - 衣索比亞 古吉 罕貝拉 酒香日曬（淺）：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2026／05</span>
-    - 葡萄軟糖的香氣和風味，尾韻帶有葡萄果乾的甜感，像更平衡的「<a href="#costa-rica-catajo">哥斯大黎加 Catajo</a>」。
+    - 葡萄軟糖的香氣和風味，尾韻帶有葡萄果乾的甜感，像更平衡的「[哥斯大黎加 Catajo](#costa-rica-catajo)」。
   - 衣索比亞 西達摩 水洗（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／05</span>
-    - 木質堅果基調像「<a href="#honduras-san-andre">宏都拉斯 聖安德烈</a>」，平衡的甜感和酸質。
+    - 木質堅果基調像「[宏都拉斯 聖安德烈](#honduras-san-andre)」，平衡的甜感和酸質。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
@@ -108,7 +108,7 @@ ref: coffee-review
     - 可以感受到描述中的粉紅胡椒的香氣、蘋果般的酸質和金橘的風味，口感濃郁且層次豐富。
   - 哥斯大黎加 多塔 女神莊園 藝伎 酵素水洗（中淺）：17（4／<small>4</small>／4／5／4）<span class="time-at-right">2025／07</span>
     - 花椒香氣和風味，尾韻甘甜。
-    - 香氣和「<a href="#peru-sl09">秘魯 SL09</a>」有些相似且更突出，但整體層次不如它豐富。
+    - 香氣和「[秘魯 SL09](#peru-sl09)」有些相似且更突出，但整體層次不如它豐富。
   - 瓜地馬拉／衣索比亞 榛愛配方（中）：15（3／<small>3</small>／5／4／3）<span class="time-at-right">2025／08</span>
   - 瓜地馬拉／衣索比亞／哥倫比亞 金鵡門配方（深）：15.5（3.5／<small>2</small>／5／4／3）<span class="time-at-right">2025／09</span>
     - 沉穩的香氣、烤製風味和後面突然轉化出的黑巧克力餘韻。
@@ -140,7 +140,7 @@ ref: coffee-review
   - 祕魯 卡瑪哈卡 嚕嚕啦啦莊園 Costa Rica95 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／01</span>
     - 李子香氣和風味，柔順酸質，圓潤多汁。
   - 哥倫比亞／衣索比亞 粉紅泡泡配方（中淺）：15（4／<small>2</small>／4／4／3）<span class="time-at-right">2026／03</span>
-    - 介於草莓和瓜之間的明顯香氣和風味。像較好喝的「<a href="#colombia-quecan">哥倫比亞 甜瓜</a>」。
+    - 介於草莓和瓜之間的明顯香氣和風味。像較好喝的「[哥倫比亞 甜瓜](#colombia-quecan)」。
   - 衣索比亞 古吉 水風鈴 G1 水洗（淺）：17（4／<small>3</small>／5／4／4）<span class="time-at-right">2026／03</span>
     - 星星茉莉香氣，伴隨柔和甜潤的帶核水果酸甜底蘊。
   - 葉門 摩卡 哈拉茲 日曬（中）：16.5（3.5／<small>2</small>／5／4／4）<span class="time-at-right">2026／04</span>
