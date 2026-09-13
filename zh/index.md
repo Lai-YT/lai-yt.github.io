@@ -27,8 +27,10 @@ ref: about
 ## 其他
 
 - <a id="master-thesis"></a>碩士論文：_基於編譯器導引之紋理硬體運用的圖形處理器執行緒束內快取利用率提升技術_
-  - [論文](/assets/files/yi-ting-lai-master-thesis.pdf) (英文，158 頁)
+  - [論文](/assets/files/yi-ting-lai-master-thesis.pdf) (英文，158 頁)[^online-thesis]
   - [投影片](/assets/files/yi-ting-lai-master-thesis-slides.pdf)（英文）
 - [簡歷](/assets/files/resume.pdf)（英文）:page_with_curl:
+
+[^online-thesis]: 本論文也收錄於 [國立陽明交通大學機構典藏](https://thesis.lib.nycu.edu.tw/items/67934d57-9254-4745-9f91-afdf6da70433)。典藏版本為雙面列印。
 
 ---

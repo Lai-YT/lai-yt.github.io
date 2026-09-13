@@ -27,8 +27,10 @@ Now, I'm shifting my focus toward large language models (LLMs). Modern GPUs incr
 ## Other
 
 - <a id="master-thesis"></a>Master Thesis: _Improving Intra-Warp Cache Utilization on GPUs through Compiler-Guided Exploitation of Texture Hardware_
-  - [Thesis](/assets/files/yi-ting-lai-master-thesis.pdf) (158 pages)
+  - [Thesis](/assets/files/yi-ting-lai-master-thesis.pdf) (158 pages)[^online-thesis]
   - [Slides](/assets/files/yi-ting-lai-master-thesis-slides.pdf)
 - [Resume](/assets/files/resume.pdf) :page_with_curl:
+
+[^online-thesis]: The thesis is also available online at [NYCU Institutional Repository](https://thesis.lib.nycu.edu.tw/items/67934d57-9254-4745-9f91-afdf6da70433). The repository version is a double-sided printed version.
 
 ---
