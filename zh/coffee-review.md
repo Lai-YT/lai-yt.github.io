@@ -92,6 +92,11 @@ ref: coffee-review
     - 葡萄軟糖的香氣和風味，尾韻帶有葡萄果乾的甜感，像更平衡的「[哥斯大黎加 Catajo](#costa-rica-catajo)」。
   - 衣索比亞 西達摩 水洗（中）：16（3／<small>2</small>／5／4／4）<span class="time-at-right">2026／05</span>
     - 木質堅果基調像「[宏都拉斯 聖安德烈](#honduras-san-andre)」，平衡的甜感和酸質。
+  - 哥斯大黎加 多塔 拉米尼塔莊園 征服者 水洗（中）：15（3／<small>2</small>／4／4／4）<span class="time-at-right">2026／09</span>
+  - 厄瓜多 洛哈 瑪奇莎莊園 美荷拉朵 水洗（中淺）：16（3／<small>3</small>／5／4／4）<span class="time-at-right">2026／10</span>
+    - 平衡的甜感和酸質。
+  - 衣索比亞 古吉 罕貝拉 丹曦雪伊莎 日曬（淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2026／10</span>
+    - 水蜜桃軟糖香氣和風味。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
