@@ -14,3 +14,4 @@ ref: book-recommendation
 - <span class="book-title">刻意練習</span><span class="book-meta">Anders Ericsson, Robert Pool／陳繪茹／方智，2017／06／01</span>
 - <span class="book-title">你發生過什麼事</span><span class="book-meta">Bruce D. Perry, Oprah Winfrey／康學慧／悅知文化，2022／03／04</span>
 - <span class="book-title">逆思維</span><span class="book-meta">Adam Grant／簡秀如／平安文化，2022／07／04</span>
+- <span class="book-title">失控的焦慮世代</span><span class="book-meta">Jonathan Haidt／鍾玉玨／網路與書，2024／11／29</span>
