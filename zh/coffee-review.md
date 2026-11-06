@@ -97,6 +97,10 @@ ref: coffee-review
     - 平衡的甜感和酸質。
   - 衣索比亞 古吉 罕貝拉 丹曦雪伊莎 日曬（淺）：16（4／<small>3</small>／4／4／4）<span class="time-at-right">2026／10</span>
     - 水蜜桃軟糖香氣和風味。
+  - 印度 馬拉巴 風漬（中深）：14.5（3.5／<small>1</small>／4／4／3）<span class="time-at-right">2026／10</span>
+    - 烘烤堅果、大麥香氣和風味。
+  - 秘魯 聖文森莊園 水洗（中淺）：16.5（3.5／<small>3</small>／5／4／4）<span class="time-at-right">2026／10</span>
+    - 杏仁果香氣和風味，乾淨平衡。
 - 星巴克
   - 黃金烘焙綜合（淺）：12.5（2.5／<small>2</small>／4／3／3）<span class="time-at-right">2025／02</span>
     - 瑕疵豆很多。
