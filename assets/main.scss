@@ -5,6 +5,17 @@
 
 @import "minima";
 
+// Narrow the content area on wide screens while preserving
+// the theme's default layout on smaller viewports.
+@media screen and (min-width: 800px) {
+  .wrapper {
+    box-sizing: border-box;
+    max-width: 800px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
 .footer-lang-options {
   float: right;
   border-top: 1px solid #eee;
