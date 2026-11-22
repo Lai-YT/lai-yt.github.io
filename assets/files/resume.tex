@@ -8,6 +8,14 @@
 \usepackage{babel}
 \usepackage[left=1.06cm,top=0.98cm,right=1.06cm,bottom=0.49cm]{geometry}
 
+\newcommand{\resumesection}[1]{%
+    \vspace{8pt}
+    \noindent\textbf{\large #1}\par
+    \vspace{4pt}
+    \hrule
+    \vspace{6pt}
+}
+
 % CV - Harvard-like
 % by: Aline R. Antunes
 % with modifications by: Lai-YT
@@ -18,20 +26,17 @@
     \href{mailto:ytlai.cs12@nycu.edu.tw}{ytlai.cs12@nycu.edu.tw} \textbullet \ \href{https://www.linkedin.com/in/lai-yt}{linkedin.com/in/lai-yt} \textbullet \ \href{https://github.com/lai-yt}{github.com/lai-yt}
 \end{center}
 
-\vspace{0.5pt}
+\vspace{-10pt}
 
-\begin{center}
-    \textbf{\Large EDUCATION}\raggedright \,\hrulefill
-\end{center}
+\resumesection{EDUCATION}
 
 \textbf{National Yang Ming Chiao Tung University} \hfill Hsinchu, ROC
 
 MS Computer Science, \textit{Advisor: Yi-Ping You} \,\qquad GPA: 3.92/4.3 \hfill Sep 2023--Aug 2026
 
-\begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Thesis: \href{https://lai-yt.github.io/assets/files/yi-ting-lai-master-thesis.pdf}{Improving Intra-Warp Cache Utilization on GPUs through Compiler-Guided Exploitation of Texture Hardware}
-    \item Courses: Advanced Compiler, Physical Design Automation, Accelerator Architectures for Machine Learning
-\end{itemize}
+Thesis: \href{https://lai-yt.github.io/assets/files/yi-ting-lai-master-thesis.pdf}{Improving Intra-Warp Cache Utilization on GPUs through Compiler-Guided Exploitation of Texture Hardware}
+
+Courses: Advanced Compiler, Physical Design Automation, Accelerator Architectures for Machine Learning
 
 \vspace{6pt}
 
@@ -42,9 +47,7 @@ BS Electronic Engineering \enskip \qquad \qquad \qquad \qquad \qquad GPA: 3.96/4
     \item \textbf{1st Place}, In-Campus Calculus Competition (245 participants, 2019)
 \end{itemize}
 
-\begin{center}
-    \textbf{\Large EXPERIENCE}\raggedright \,\hrulefill
-\end{center}
+\resumesection{EXPERIENCE}
 
 \textbf{Advanced Semiconductor Engineering, Inc.} \hfill Kaohsiung, ROC
 
@@ -54,9 +57,7 @@ BS Electronic Engineering \enskip \qquad \qquad \qquad \qquad \qquad GPA: 3.96/4
     \item Visualized factory production and downtime metrics by building data dashboards with \textit{Apache Superset}.
 \end{itemize}
 
-\begin{center}
-    \textbf{TEACHING ASSISTANTSHIPS}\raggedright
-\end{center}
+\resumesection{TEACHING ASSISTANTSHIPS}
 
 NYCU Parallel Programming \hfill Sep--Dec 2024, Feb--Jun 2025
 
@@ -66,9 +67,7 @@ NYCU Introduction to Compiler Design \hfill Sep 2023--Jan 2024
 
 NTUT Object-Oriented Programming \hfill Feb--Jun 2021
 
-\begin{center}
-    \textbf{\Large PROJECTS}\raggedright \,\hrulefill
-\end{center}
+\resumesection{PROJECTS}
 
 \textbf{AutoTex} | \textit{C++} \hfill Master Thesis
 
@@ -107,18 +106,14 @@ A command-line tool for simplified regular expression matching, supporting \text
     \item Implemented a \textit{Flask}-based client-server architecture with a \textit{PyQt5} GUI, supporting background data uploads from student clients and real-time chart updates and database storage on the teacher client.
 \end{itemize}
 
-\begin{center}
-    \textbf{\Large SKILLS}\raggedright \,\hrulefill
-\end{center}
+\resumesection{SKILLS}
 \textbf{Programming:} C/C++, CUDA, Python, Bash
 
-\textbf{Software \& Tools:} LLVM, Git, NVIDIA Nsight Compute, Make/CMake, GDB, Docker, Linux
+\textbf{Software \& Tools:} LLVM, Git/GitHub, Make/CMake, NVIDIA Nsight Compute, GDB, ASan/Valgrind, Docker
 
 \textbf{Language:} Mandarin Chinese (Native), English (Professional Proficiency, TOEIC 875), Japanese (Basic)
 
-\begin{center}
-    \textbf{\Large PUBLICATIONS}\raggedright \,\hrulefill
-\end{center}
+\resumesection{PUBLICATIONS}
 
 \begin{enumerate}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
     \item \underline{Yi-Ting Lai}, Meng-Shiuan Pan. ``\textit{\href{https://ieeexplore.ieee.org/document/10234058}{A Concentration Judgment System for Online Courses: Design and Implementation}.}'' VTS Asia Pacific Wireless Communications Symposium (APWCS), 2023.
