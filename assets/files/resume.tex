@@ -50,8 +50,8 @@ BS Electronic Engineering \enskip \qquad \qquad \qquad \qquad \qquad GPA: 3.96/4
 
 \textbf{IT Intern} \hfill Jul--Aug 2022
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Automated defect detection using \textbf{YOLOv5}.
-    \item Visualized factory production and downtime metrics by building data dashboards with \textbf{Apache Superset}.
+    \item Automated defect detection using \textit{YOLOv5}.
+    \item Visualized factory production and downtime metrics by building data dashboards with \textit{Apache Superset}.
 \end{itemize}
 
 \begin{center}
@@ -60,7 +60,7 @@ BS Electronic Engineering \enskip \qquad \qquad \qquad \qquad \qquad GPA: 3.96/4
 
 NYCU Parallel Programming \hfill Sep--Dec 2024, Feb--Jun 2025
 
-NYCU Compiler Design, \textbf{Excellent Teaching Assistant Award} \hfill Feb--Jun 2024
+NYCU Compiler Design, \textit{Excellent Teaching Assistant Award} \hfill Feb--Jun 2024
 
 NYCU Introduction to Compiler Design \hfill Sep 2023--Jan 2024
 
@@ -70,37 +70,41 @@ NTUT Object-Oriented Programming \hfill Feb--Jun 2021
     \textbf{\Large PROJECTS}\raggedright \,\hrulefill
 \end{center}
 
-\textbf{AutoTex} | C++ \hfill Master Thesis
+\textbf{AutoTex} | \textit{C++} \hfill Master Thesis
 
-An LLVM-based compiler framework for GPU memory-layout optimization.
+An \textit{LLVM}-based compiler framework for GPU memory-layout optimization.
 
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Reduced fetched sectors by 38\% at L1, 15\% at L2, and 21\% at DRAM across 17 kernels, achieving \(2.4\times\) speedup, by developing \textbf{LLVM passes} that detect access/layout mismatches and map data to \textbf{texture memory}.
+    \item Augmented the compilation pipeline to enable program analysis across the host-device boundary.
+    \item Reduced fetched sectors by 38\% at L1, 15\% at L2, and 21\% at DRAM across 17 kernels, achieving \(2.4\times\) geomean speedup, by developing LLVM passes that detect access/layout mismatches and map data to \textit{texture memory}.
 \end{itemize}
 
-\textbf{\href{https://github.com/fruits-lab/vitaminc}{VitaminC}} | C++ \hfill 2023--2025
+\vspace{6pt}
 
-A C compiler targeting \textbf{QBE} and \textbf{LLVM IR}.
+\textbf{\href{https://github.com/fruits-lab/vitaminc}{VitaminC}} | \textit{C++} \hfill 2023--2025
+
+A C compiler targeting \textit{QBE} and \textit{LLVM} IR.
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
     \item Implemented key C features, including functions, arrays, pointers, loops, conditionals, structs, and unions.
+    \item Developed the frontend using \textit{Flex}/\textit{Bison}, with custom AST data structures, a symbol table, scope management, and type checking; delegated backend code generation to QBE/LLVM.
 \end{itemize}
 
 \vspace{6pt}
 
-\textbf{\href{https://github.com/Lai-YT/systolic-array}{Wav2Letter FPGA Accelerator}} | Verilog \hfill 2025
+\textbf{\href{https://github.com/Lai-YT/regexp}{regexp}} | \textit{C} \hfill 2023--2024
 
+A command-line tool for simplified regular expression matching, supporting \texttt{.}, \texttt{()}, \texttt{|}, \texttt{*}, \texttt{+}, and \texttt{?} operators.
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Accelerated ASR inference by \(15\times\), as measured by throughput, by designing a \textbf{systolic array} architecture.
+    \item Converted regular expressions into non-deterministic finite automata (NFAs) using Thompson's construction, then simulated the NFAs for pattern matching.
 \end{itemize}
 
 \vspace{6pt}
 
-\textbf{\href{https://github.com/Lai-YT/webcam-applications}{Concentration Judgment System}} | Python \hfill 2021--2022
+\textbf{\href{https://github.com/Lai-YT/webcam-applications}{Online Learning Concentration Analysis System}} | \textit{Python} \hfill 2021--2022
 
-A student concentration analysis system for online courses.
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Achieved real-time face and posture detection using \textbf{Dlib} and \textbf{OpenCV}.
-    \item Implemented GUI and client communication with \textbf{PyQt5} and \textbf{WebSocket}.
+    \item Quantified head posture, blink rate and viewing area from \textit{Dlib} facial landmarks, combined with fuzzy logic to estimiate real-time concentration.
+    \item Implemented a \textit{Flask}-based client-server architecture with a \textit{PyQt5} GUI, supporting background data uploads from student clients and real-time chart updates and database storage on the teacher client.
 \end{itemize}
 
 \begin{center}
