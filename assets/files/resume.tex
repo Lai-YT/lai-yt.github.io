@@ -36,7 +36,7 @@ MS Computer Science, \textit{Advisor: Yi-Ping You} \,\qquad GPA: 3.92/4.3 \hfill
 
 Thesis: \href{https://lai-yt.github.io/assets/files/yi-ting-lai-master-thesis.pdf}{Improving Intra-Warp Cache Utilization on GPUs through Compiler-Guided Exploitation of Texture Hardware}
 
-Courses: Advanced Compiler, Physical Design Automation, Accelerator Architectures for Machine Learning
+Coursework: Advanced Compiler, Physical Design Automation, Accelerator Architectures for Machine Learning
 
 \vspace{6pt}
 
@@ -74,8 +74,9 @@ NTUT Object-Oriented Programming \hfill Feb--Jun 2021
 An \textit{LLVM}-based compiler framework for GPU memory-layout optimization.
 
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Augmented the compilation pipeline to enable program analysis across the host-device boundary.
-    \item Reduced fetched sectors by 38\% at L1, 15\% at L2, and 21\% at DRAM across 17 kernels, achieving \(2.4\times\) geomean speedup, by developing LLVM passes that detect access/layout mismatches and map data to \textit{texture memory}.
+    \item Extended the compilation pipeline to enable program analysis across the host-device boundary.
+    \item Characterized register mapping for texture fetches and cache-sector organization of the associated data layout.
+    \item Reduced fetched sectors by 38\% at L1, 15\% at L2, and 21\% at DRAM across 17 kernels, achieving \(2.4\times\) geometric-mean speedup, by developing LLVM passes that detect access/layout mismatches and map data to texture memory.
 \end{itemize}
 
 \vspace{6pt}
@@ -94,7 +95,7 @@ A C compiler targeting \textit{QBE} and \textit{LLVM} IR.
 
 A command-line tool for simplified regular expression matching, supporting \texttt{.}, \texttt{()}, \texttt{|}, \texttt{*}, \texttt{+}, and \texttt{?} operators.
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
-    \item Converted regular expressions into non-deterministic finite automata (NFAs) using Thompson's construction, then simulated the NFAs for pattern matching.
+    \item Converted regular expressions into non-deterministic finite automata (NFAs) using Thompson's construction, with optional on-the-fly DFA construction and state caching for pattern matching.
 \end{itemize}
 
 \vspace{6pt}
@@ -103,10 +104,11 @@ A command-line tool for simplified regular expression matching, supporting \text
 
 \begin{itemize}[noitemsep, topsep=0pt, partopsep=0pt, parsep=0pt, leftmargin=*]
     \item Quantified head posture, blink rate and viewing area from \textit{Dlib} facial landmarks, combined with fuzzy logic to estimiate real-time concentration.
-    \item Implemented a \textit{Flask}-based client-server architecture with a \textit{PyQt5} GUI, supporting background data uploads from student clients and real-time chart updates and database storage on the teacher client.
+    \item Implemented a \textit{Flask}-based client-server architecture with a \textit{PyQt5} GUI, enabling student clients to upload data in the background while the teacher client updates charts in real time and stores the data in a database.
 \end{itemize}
 
 \resumesection{SKILLS}
+
 \textbf{Programming:} C/C++, CUDA, Python, Bash
 
 \textbf{Software \& Tools:} LLVM, Git/GitHub, Make/CMake, NVIDIA Nsight Compute, GDB, ASan/Valgrind, Docker
